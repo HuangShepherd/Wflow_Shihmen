@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSeries xmlns="http://www.wldelft.nl/fews/PI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.wldelft.nl/fews/PI http://fews.wldelft.nl/schemas/version1.0/pi-schemas/pi_timeseries.xsd" version="1.2">
+<timeZone>0.0</timeZone>
+<series>
+<header>
+<type>instantaneous</type>
+<locationId>1</locationId>
+<parameterId>fir</parameterId>
+<timeStep unit="second" multiplier="3600"/>
+<startDate date="2009-08-05" time="13:00:00"/>
+<endDate date="2009-08-09" time="12:00:00"/>
+<missVal>-999.0</missVal>
+<stationName>1</stationName>
+</header>
+<event date="2009-08-05" time="13:00:00" value="0.0246481" />
+<event date="2009-08-05" time="14:00:00" value="0.0798993" />
+<event date="2009-08-05" time="15:00:00" value="0.160323" />
+<event date="2009-08-05" time="16:00:00" value="0.236092" />
+<event date="2009-08-05" time="17:00:00" value="0.302725" />
+<event date="2009-08-05" time="18:00:00" value="0.364201" />
+<event date="2009-08-05" time="19:00:00" value="0.417904" />
+<event date="2009-08-05" time="20:00:00" value="0.46495" />
+<event date="2009-08-05" time="21:00:00" value="0.506246" />
+<event date="2009-08-05" time="22:00:00" value="0.542886" />
+<event date="2009-08-05" time="23:00:00" value="0.577564" />
+<event date="2009-08-06" time="00:00:00" value="0.611254" />
+<event date="2009-08-06" time="01:00:00" value="0.652968" />
+<event date="2009-08-06" time="02:00:00" value="0.780008" />
+<event date="2009-08-06" time="03:00:00" value="0.928976" />
+<event date="2009-08-06" time="04:00:00" value="1.06419" />
+<event date="2009-08-06" time="05:00:00" value="1.3333" />
+<event date="2009-08-06" time="06:00:00" value="2.14691" />
+<event date="2009-08-06" time="07:00:00" value="3.40391" />
+<event date="2009-08-06" time="08:00:00" value="5.08504" />
+<event date="2009-08-06" time="09:00:00" value="8.3741" />
+<event date="2009-08-06" time="10:00:00" value="13.8198" />
+<event date="2009-08-06" time="11:00:00" value="20.553" />
+<event date="2009-08-06" time="12:00:00" value="26.7727" />
+<event date="2009-08-06" time="13:00:00" value="32.8337" />
+<event date="2009-08-06" time="14:00:00" value="38.7446" />
+<event date="2009-08-06" time="15:00:00" value="44.4843" />
+<event date="2009-08-06" time="16:00:00" value="49.9744" />
+<event date="2009-08-06" time="17:00:00" value="55.0506" />
+<event date="2009-08-06" time="18:00:00" value="60.6081" />
+<event date="2009-08-06" time="19:00:00" value="67.2151" />
+<event date="2009-08-06" time="20:00:00" value="74.4521" />
+<event date="2009-08-06" time="21:00:00" value="82.1316" />
+<event date="2009-08-06" time="22:00:00" value="90.0393" />
+<event date="2009-08-06" time="23:00:00" value="98.766" />
+<event date="2009-08-07" time="00:00:00" value="107.669" />
+<event date="2009-08-07" time="01:00:00" value="117.731" />
+<event date="2009-08-07" time="02:00:00" value="127.526" />
+<event date="2009-08-07" time="03:00:00" value="136.81" />
+<event date="2009-08-07" time="04:00:00" value="145.64" />
+<event date="2009-08-07" time="05:00:00" value="155.073" />
+<event date="2009-08-07" time="06:00:00" value="165.468" />
+<event date="2009-08-07" time="07:00:00" value="175.762" />
+<event date="2009-08-07" time="08:00:00" value="186.267" />
+<event date="2009-08-07" time="09:00:00" value="195.762" />
+<event date="2009-08-07" time="10:00:00" value="204.359" />
+<event date="2009-08-07" time="11:00:00" value="213.423" />
+<event date="2009-08-07" time="12:00:00" value="223.207" />
+<event date="2009-08-07" time="13:00:00" value="232.23" />
+<event date="2009-08-07" time="14:00:00" value="241.612" />
+<event date="2009-08-07" time="15:00:00" value="250.286" />
+<event date="2009-08-07" time="16:00:00" value="258.484" />
+<event date="2009-08-07" time="17:00:00" value="265.027" />
+<event date="2009-08-07" time="18:00:00" value="270.136" />
+<event date="2009-08-07" time="19:00:00" value="273.764" />
+<event date="2009-08-07" time="20:00:00" value="276.965" />
+<event date="2009-08-07" time="21:00:00" value="279.712" />
+<event date="2009-08-07" time="22:00:00" value="281.898" />
+<event date="2009-08-07" time="23:00:00" value="284.238" />
+<event date="2009-08-08" time="00:00:00" value="286.168" />
+<event date="2009-08-08" time="01:00:00" value="288.537" />
+<event date="2009-08-08" time="02:00:00" value="289.209" />
+<event date="2009-08-08" time="03:00:00" value="289.868" />
+<event date="2009-08-08" time="04:00:00" value="290.307" />
+<event date="2009-08-08" time="05:00:00" value="291.334" />
+<event date="2009-08-08" time="06:00:00" value="292.443" />
+<event date="2009-08-08" time="07:00:00" value="293.187" />
+<event date="2009-08-08" time="08:00:00" value="295.128" />
+<event date="2009-08-08" time="09:00:00" value="296.846" />
+<event date="2009-08-08" time="10:00:00" value="298.215" />
+<event date="2009-08-08" time="11:00:00" value="299.305" />
+<event date="2009-08-08" time="12:00:00" value="300.645" />
+<event date="2009-08-08" time="13:00:00" value="302.31" />
+<event date="2009-08-08" time="14:00:00" value="302.781" />
+<event date="2009-08-08" time="15:00:00" value="302.746" />
+<event date="2009-08-08" time="16:00:00" value="302.403" />
+<event date="2009-08-08" time="17:00:00" value="301.95" />
+<event date="2009-08-08" time="18:00:00" value="301.282" />
+<event date="2009-08-08" time="19:00:00" value="300.484" />
+<event date="2009-08-08" time="20:00:00" value="299.633" />
+<event date="2009-08-08" time="21:00:00" value="298.964" />
+<event date="2009-08-08" time="22:00:00" value="298.408" />
+<event date="2009-08-08" time="23:00:00" value="298.265" />
+<event date="2009-08-09" time="00:00:00" value="298.664" />
+<event date="2009-08-09" time="01:00:00" value="298.307" />
+<event date="2009-08-09" time="02:00:00" value="297.905" />
+<event date="2009-08-09" time="03:00:00" value="297.143" />
+<event date="2009-08-09" time="04:00:00" value="296.536" />
+<event date="2009-08-09" time="05:00:00" value="295.857" />
+<event date="2009-08-09" time="06:00:00" value="295.565" />
+<event date="2009-08-09" time="07:00:00" value="296.258" />
+<event date="2009-08-09" time="08:00:00" value="297.627" />
+<event date="2009-08-09" time="09:00:00" value="299.294" />
+<event date="2009-08-09" time="10:00:00" value="300.13" />
+<event date="2009-08-09" time="11:00:00" value="300.334" />
+<event date="2009-08-09" time="12:00:00" value="299.914" />
+</series>
+</TimeSeries>

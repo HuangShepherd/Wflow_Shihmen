@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.wldelft.nl/fews/PI" xsi:schemaLocation="http://www.wldelft.nl/fews/PI http://fews.wldelft.nl/schemas/version1.0/pi-schemas/pi_run.xsd" version="1.5">
+    <timeZone>0.0</timeZone>
+    <startDateTime date="2009-08-05" time="12:00:00"/>
+    <endDateTime date="2009-08-09" time="12:00:00"/>
+    <time0 date="2009-08-09" time="12:00:00"/>
+    <lastObservationDateTime date="2009-08-09" time="12:00:00"/>
+    <workDir>E:\FEWS_Taiwan_version\FEWS_Taiwan_WRA\FEWS_Taiwan_WRA\Taiwan\Modules\Wflow</workDir>
+    <inputMapStackFile>E:\FEWS_Taiwan_version\FEWS_Taiwan_WRA\FEWS_Taiwan_WRA\Taiwan\Modules\Wflow\Shihmen\inmaps\P.xml</inputMapStackFile>
+    <outputDiagnosticFile>E:\FEWS_Taiwan_version\FEWS_Taiwan_WRA\FEWS_Taiwan_WRA\Taiwan\Modules\Wflow\dummy.xml</outputDiagnosticFile>
+</Run>

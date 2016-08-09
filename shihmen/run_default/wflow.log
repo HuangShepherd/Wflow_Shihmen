@@ -1,0 +1,2481 @@
+2016-08-01 22:00:11,476 - model - DEBUG - Step: 28/96
+2016-08-01 22:00:11,742 - model - DEBUG - Step: 29/96
+2016-08-01 22:00:11,992 - model - DEBUG - Step: 30/96
+2016-08-01 22:00:12,242 - model - DEBUG - Step: 31/96
+2016-08-01 22:00:12,507 - model - DEBUG - Step: 32/96
+2016-08-01 22:00:12,757 - model - DEBUG - Step: 33/96
+2016-08-01 22:00:13,007 - model - DEBUG - Step: 34/96
+2016-08-01 22:00:13,257 - model - DEBUG - Step: 35/96
+2016-08-01 22:00:13,507 - model - DEBUG - Step: 36/96
+2016-08-01 22:00:13,757 - model - DEBUG - Step: 37/96
+2016-08-01 22:00:14,023 - model - DEBUG - Step: 38/96
+2016-08-01 22:00:14,273 - model - DEBUG - Step: 39/96
+2016-08-01 22:00:14,523 - model - DEBUG - Step: 40/96
+2016-08-01 22:00:14,757 - model - DEBUG - Step: 41/96
+2016-08-01 22:00:15,007 - model - DEBUG - Step: 42/96
+2016-08-01 22:00:15,242 - model - DEBUG - Step: 43/96
+2016-08-01 22:00:15,476 - model - DEBUG - Step: 44/96
+2016-08-01 22:00:15,726 - model - DEBUG - Step: 45/96
+2016-08-01 22:00:15,960 - model - DEBUG - Step: 46/96
+2016-08-01 22:00:16,180 - model - DEBUG - Step: 47/96
+2016-08-01 22:00:16,414 - model - DEBUG - Step: 48/96
+2016-08-01 22:00:16,648 - model - DEBUG - Step: 49/96
+2016-08-01 22:00:16,867 - model - DEBUG - Step: 50/96
+2016-08-01 22:00:17,101 - model - DEBUG - Step: 51/96
+2016-08-01 22:00:17,319 - model - DEBUG - Step: 52/96
+2016-08-01 22:00:17,555 - model - DEBUG - Step: 53/96
+2016-08-01 22:00:17,789 - model - DEBUG - Step: 54/96
+2016-08-01 22:00:18,023 - model - DEBUG - Step: 55/96
+2016-08-01 22:00:18,289 - model - DEBUG - Step: 56/96
+2016-08-01 22:00:18,507 - model - DEBUG - Step: 57/96
+2016-08-01 22:00:18,742 - model - DEBUG - Step: 58/96
+2016-08-01 22:00:18,976 - model - DEBUG - Step: 59/96
+2016-08-01 22:00:19,196 - model - DEBUG - Step: 60/96
+2016-08-01 22:00:19,430 - model - DEBUG - Step: 61/96
+2016-08-01 22:00:19,664 - model - DEBUG - Step: 62/96
+2016-08-01 22:00:19,900 - model - DEBUG - Step: 63/96
+2016-08-01 22:00:20,134 - model - DEBUG - Step: 64/96
+2016-08-01 22:00:20,368 - model - DEBUG - Step: 65/96
+2016-08-01 22:00:20,602 - model - DEBUG - Step: 66/96
+2016-08-01 22:00:20,836 - model - DEBUG - Step: 67/96
+2016-08-01 22:00:21,055 - model - DEBUG - Step: 68/96
+2016-08-01 22:00:21,289 - model - DEBUG - Step: 69/96
+2016-08-01 22:00:21,525 - model - DEBUG - Step: 70/96
+2016-08-01 22:00:21,759 - model - DEBUG - Step: 71/96
+2016-08-01 22:00:21,993 - model - DEBUG - Step: 72/96
+2016-08-01 22:00:22,227 - model - DEBUG - Step: 73/96
+2016-08-01 22:00:22,461 - model - DEBUG - Step: 74/96
+2016-08-01 22:00:22,697 - model - DEBUG - Step: 75/96
+2016-08-01 22:00:22,947 - model - DEBUG - Step: 76/96
+2016-08-01 22:00:23,180 - model - DEBUG - Step: 77/96
+2016-08-01 22:00:23,414 - model - DEBUG - Step: 78/96
+2016-08-01 22:00:23,650 - model - DEBUG - Step: 79/96
+2016-08-01 22:00:23,900 - model - DEBUG - Step: 80/96
+2016-08-01 22:00:24,164 - model - DEBUG - Step: 81/96
+2016-08-01 22:00:24,414 - model - DEBUG - Step: 82/96
+2016-08-01 22:00:24,650 - model - DEBUG - Step: 83/96
+2016-08-01 22:00:24,900 - model - DEBUG - Step: 84/96
+2016-08-01 22:00:25,134 - model - DEBUG - Step: 85/96
+2016-08-01 22:00:25,384 - model - DEBUG - Step: 86/96
+2016-08-01 22:00:25,619 - model - DEBUG - Step: 87/96
+2016-08-01 22:00:25,854 - model - DEBUG - Step: 88/96
+2016-08-01 22:00:26,104 - model - DEBUG - Step: 89/96
+2016-08-01 22:00:26,354 - model - DEBUG - Step: 90/96
+2016-08-01 22:00:26,588 - model - DEBUG - Step: 91/96
+2016-08-01 22:00:26,838 - model - DEBUG - Step: 92/96
+2016-08-01 22:00:27,088 - model - DEBUG - Step: 93/96
+2016-08-01 22:00:27,322 - model - DEBUG - Step: 94/96
+2016-08-01 22:00:27,572 - model - DEBUG - Step: 95/96
+2016-08-01 22:00:27,822 - model - DEBUG - Step: 96/96
+2016-08-01 22:00:28,072 - model - INFO - Saving initial conditions...
+2016-08-01 22:00:28,072 - model - INFO - Saving initial conditions for FEWS...
+2016-08-01 22:01:22,921 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-01 22:01:22,921 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-01 22:01:22,921 - model - INFO - running for 96 timesteps
+2016-08-01 22:01:22,937 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-01 22:01:22,937 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-01 22:01:22,937 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-01 22:01:22,937 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-01 22:01:22,953 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-01 22:01:22,953 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-01 22:01:22,967 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-01 22:01:22,967 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-01 22:01:22,967 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-01 22:01:22,967 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-01 22:01:22,983 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-01 22:01:22,983 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-01 22:01:22,983 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-01 22:01:23,000 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-01 22:01:23,000 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-01 22:01:23,015 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-01 22:01:23,015 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-01 22:01:23,030 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-01 22:01:23,030 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-01 22:01:23,046 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-01 22:01:23,046 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-01 22:01:23,046 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-01 22:01:23,233 - model - INFO - Initializing of model variables..
+2016-08-01 22:01:23,328 - model - INFO - Create timeseries outputs...
+2016-08-01 22:01:23,328 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-01 22:01:23,344 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-01 22:01:23,344 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-01 22:01:23,344 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-01 22:01:23,405 - model - INFO - Saving summary maps...
+2016-08-01 22:01:23,421 - model - INFO - Starting Dynamic run...
+2016-08-01 22:01:23,421 - model - INFO - Setting initial conditions from state files
+2016-08-01 22:01:23,437 - model - DEBUG - Step: 1/96
+2016-08-01 22:01:23,687 - model - DEBUG - Step: 2/96
+2016-08-01 22:01:23,953 - model - DEBUG - Step: 3/96
+2016-08-01 22:01:24,233 - model - DEBUG - Step: 4/96
+2016-08-01 22:01:24,469 - model - DEBUG - Step: 5/96
+2016-08-01 22:01:24,703 - model - DEBUG - Step: 6/96
+2016-08-01 22:01:24,937 - model - DEBUG - Step: 7/96
+2016-08-01 22:01:25,187 - model - DEBUG - Step: 8/96
+2016-08-01 22:01:25,423 - model - DEBUG - Step: 9/96
+2016-08-01 22:01:25,657 - model - DEBUG - Step: 10/96
+2016-08-01 22:01:25,891 - model - DEBUG - Step: 11/96
+2016-08-01 22:01:26,125 - model - DEBUG - Step: 12/96
+2016-08-01 22:01:26,359 - model - DEBUG - Step: 13/96
+2016-08-01 22:01:26,609 - model - DEBUG - Step: 14/96
+2016-08-01 22:01:26,859 - model - DEBUG - Step: 15/96
+2016-08-01 22:01:27,109 - model - DEBUG - Step: 16/96
+2016-08-01 22:01:27,359 - model - DEBUG - Step: 17/96
+2016-08-01 22:01:27,609 - model - DEBUG - Step: 18/96
+2016-08-01 22:01:27,875 - model - DEBUG - Step: 19/96
+2016-08-01 22:01:28,125 - model - DEBUG - Step: 20/96
+2016-08-01 22:01:28,375 - model - DEBUG - Step: 21/96
+2016-08-01 22:01:28,641 - model - DEBUG - Step: 22/96
+2016-08-01 22:01:28,907 - model - DEBUG - Step: 23/96
+2016-08-01 22:01:29,173 - model - DEBUG - Step: 24/96
+2016-08-01 22:01:29,438 - model - DEBUG - Step: 25/96
+2016-08-01 22:01:29,688 - model - DEBUG - Step: 26/96
+2016-08-01 22:01:29,938 - model - DEBUG - Step: 27/96
+2016-08-01 22:01:30,203 - model - DEBUG - Step: 28/96
+2016-08-01 22:01:30,453 - model - DEBUG - Step: 29/96
+2016-08-01 22:01:30,703 - model - DEBUG - Step: 30/96
+2016-08-01 22:01:30,986 - model - DEBUG - Step: 31/96
+2016-08-01 22:01:31,236 - model - DEBUG - Step: 32/96
+2016-08-01 22:01:31,486 - model - DEBUG - Step: 33/96
+2016-08-01 22:01:31,750 - model - DEBUG - Step: 34/96
+2016-08-01 22:01:32,000 - model - DEBUG - Step: 35/96
+2016-08-01 22:01:32,250 - model - DEBUG - Step: 36/96
+2016-08-01 22:01:32,516 - model - DEBUG - Step: 37/96
+2016-08-01 22:01:32,766 - model - DEBUG - Step: 38/96
+2016-08-01 22:01:33,016 - model - DEBUG - Step: 39/96
+2016-08-01 22:01:33,267 - model - DEBUG - Step: 40/96
+2016-08-01 22:01:33,517 - model - DEBUG - Step: 41/96
+2016-08-01 22:01:33,767 - model - DEBUG - Step: 42/96
+2016-08-01 22:01:34,017 - model - DEBUG - Step: 43/96
+2016-08-01 22:01:34,267 - model - DEBUG - Step: 44/96
+2016-08-01 22:01:34,517 - model - DEBUG - Step: 45/96
+2016-08-01 22:01:34,767 - model - DEBUG - Step: 46/96
+2016-08-01 22:01:35,017 - model - DEBUG - Step: 47/96
+2016-08-01 22:01:35,267 - model - DEBUG - Step: 48/96
+2016-08-01 22:01:35,517 - model - DEBUG - Step: 49/96
+2016-08-01 22:01:35,767 - model - DEBUG - Step: 50/96
+2016-08-01 22:01:36,049 - model - DEBUG - Step: 51/96
+2016-08-01 22:01:36,299 - model - DEBUG - Step: 52/96
+2016-08-01 22:01:36,565 - model - DEBUG - Step: 53/96
+2016-08-01 22:01:36,799 - model - DEBUG - Step: 54/96
+2016-08-01 22:01:37,065 - model - DEBUG - Step: 55/96
+2016-08-01 22:01:37,299 - model - DEBUG - Step: 56/96
+2016-08-01 22:01:37,549 - model - DEBUG - Step: 57/96
+2016-08-01 22:01:37,799 - model - DEBUG - Step: 58/96
+2016-08-01 22:01:38,033 - model - DEBUG - Step: 59/96
+2016-08-01 22:01:38,283 - model - DEBUG - Step: 60/96
+2016-08-01 22:01:38,533 - model - DEBUG - Step: 61/96
+2016-08-01 22:01:38,799 - model - DEBUG - Step: 62/96
+2016-08-01 22:01:39,049 - model - DEBUG - Step: 63/96
+2016-08-01 22:01:39,299 - model - DEBUG - Step: 64/96
+2016-08-01 22:01:39,549 - model - DEBUG - Step: 65/96
+2016-08-01 22:01:39,799 - model - DEBUG - Step: 66/96
+2016-08-01 22:01:40,033 - model - DEBUG - Step: 67/96
+2016-08-01 22:01:40,283 - model - DEBUG - Step: 68/96
+2016-08-01 22:01:40,549 - model - DEBUG - Step: 69/96
+2016-08-01 22:01:40,799 - model - DEBUG - Step: 70/96
+2016-08-01 22:01:41,065 - model - DEBUG - Step: 71/96
+2016-08-01 22:01:41,315 - model - DEBUG - Step: 72/96
+2016-08-01 22:01:41,565 - model - DEBUG - Step: 73/96
+2016-08-01 22:01:41,832 - model - DEBUG - Step: 74/96
+2016-08-01 22:01:42,082 - model - DEBUG - Step: 75/96
+2016-08-01 22:01:42,332 - model - DEBUG - Step: 76/96
+2016-08-01 22:01:42,582 - model - DEBUG - Step: 77/96
+2016-08-01 22:01:42,832 - model - DEBUG - Step: 78/96
+2016-08-01 22:01:43,082 - model - DEBUG - Step: 79/96
+2016-08-01 22:01:43,332 - model - DEBUG - Step: 80/96
+2016-08-01 22:01:43,582 - model - DEBUG - Step: 81/96
+2016-08-01 22:01:43,832 - model - DEBUG - Step: 82/96
+2016-08-01 22:01:44,082 - model - DEBUG - Step: 83/96
+2016-08-01 22:01:44,348 - model - DEBUG - Step: 84/96
+2016-08-01 22:01:44,598 - model - DEBUG - Step: 85/96
+2016-08-01 22:01:44,862 - model - DEBUG - Step: 86/96
+2016-08-01 22:01:45,128 - model - DEBUG - Step: 87/96
+2016-08-01 22:01:45,378 - model - DEBUG - Step: 88/96
+2016-08-01 22:01:45,628 - model - DEBUG - Step: 89/96
+2016-08-01 22:01:45,878 - model - DEBUG - Step: 90/96
+2016-08-01 22:01:46,128 - model - DEBUG - Step: 91/96
+2016-08-01 22:01:46,394 - model - DEBUG - Step: 92/96
+2016-08-01 22:01:46,660 - model - DEBUG - Step: 93/96
+2016-08-01 22:01:46,926 - model - DEBUG - Step: 94/96
+2016-08-01 22:01:47,176 - model - DEBUG - Step: 95/96
+2016-08-01 22:01:47,441 - model - DEBUG - Step: 96/96
+2016-08-01 22:01:47,691 - model - INFO - Saving initial conditions...
+2016-08-01 22:01:47,707 - model - INFO - Saving initial conditions for FEWS...
+2016-08-01 22:20:15,539 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-01 22:20:15,539 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-01 22:20:15,539 - model - INFO - running for 96 timesteps
+2016-08-01 22:20:15,632 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-01 22:20:15,632 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-01 22:20:15,632 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-01 22:20:15,632 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-01 22:20:15,648 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-01 22:20:15,648 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-01 22:20:15,664 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-01 22:20:15,664 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-01 22:20:15,664 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-01 22:20:15,664 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-01 22:20:15,678 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-01 22:20:15,678 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-01 22:20:15,678 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-01 22:20:15,694 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-01 22:20:15,694 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-01 22:20:15,710 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-01 22:20:15,710 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-01 22:20:15,726 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-01 22:20:15,726 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-01 22:20:15,742 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-01 22:20:15,742 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-01 22:20:15,742 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-01 22:20:15,944 - model - INFO - Initializing of model variables..
+2016-08-01 22:20:16,023 - model - INFO - Create timeseries outputs...
+2016-08-01 22:20:16,023 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-01 22:20:16,023 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-01 22:20:16,023 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-01 22:20:16,023 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-01 22:20:16,085 - model - INFO - Saving summary maps...
+2016-08-01 22:20:16,101 - model - INFO - Starting Dynamic run...
+2016-08-01 22:20:16,101 - model - INFO - Setting initial conditions from state files
+2016-08-01 22:20:16,273 - model - DEBUG - Step: 1/96
+2016-08-01 22:20:16,539 - model - DEBUG - Step: 2/96
+2016-08-01 22:20:16,789 - model - DEBUG - Step: 3/96
+2016-08-01 22:20:17,039 - model - DEBUG - Step: 4/96
+2016-08-01 22:20:17,289 - model - DEBUG - Step: 5/96
+2016-08-01 22:20:17,539 - model - DEBUG - Step: 6/96
+2016-08-01 22:20:17,789 - model - DEBUG - Step: 7/96
+2016-08-01 22:20:18,023 - model - DEBUG - Step: 8/96
+2016-08-01 22:20:18,273 - model - DEBUG - Step: 9/96
+2016-08-01 22:20:18,523 - model - DEBUG - Step: 10/96
+2016-08-01 22:20:18,773 - model - DEBUG - Step: 11/96
+2016-08-01 22:20:19,023 - model - DEBUG - Step: 12/96
+2016-08-01 22:20:19,273 - model - DEBUG - Step: 13/96
+2016-08-01 22:20:19,539 - model - DEBUG - Step: 14/96
+2016-08-01 22:20:19,805 - model - DEBUG - Step: 15/96
+2016-08-01 22:20:20,055 - model - DEBUG - Step: 16/96
+2016-08-01 22:20:20,289 - model - DEBUG - Step: 17/96
+2016-08-01 22:20:20,555 - model - DEBUG - Step: 18/96
+2016-08-01 22:20:20,819 - model - DEBUG - Step: 19/96
+2016-08-01 22:20:21,069 - model - DEBUG - Step: 20/96
+2016-08-01 22:20:21,319 - model - DEBUG - Step: 21/96
+2016-08-01 22:20:21,585 - model - DEBUG - Step: 22/96
+2016-08-01 22:20:21,867 - model - DEBUG - Step: 23/96
+2016-08-01 22:20:22,132 - model - DEBUG - Step: 24/96
+2016-08-01 22:20:22,398 - model - DEBUG - Step: 25/96
+2016-08-01 22:20:22,680 - model - DEBUG - Step: 26/96
+2016-08-01 22:20:22,944 - model - DEBUG - Step: 27/96
+2016-08-01 22:20:23,226 - model - DEBUG - Step: 28/96
+2016-08-01 22:20:23,492 - model - DEBUG - Step: 29/96
+2016-08-01 22:20:23,835 - model - DEBUG - Step: 30/96
+2016-08-01 22:20:24,132 - model - DEBUG - Step: 31/96
+2016-08-01 22:20:24,414 - model - DEBUG - Step: 32/96
+2016-08-01 22:20:24,696 - model - DEBUG - Step: 33/96
+2016-08-01 22:20:24,946 - model - DEBUG - Step: 34/96
+2016-08-01 22:20:25,196 - model - DEBUG - Step: 35/96
+2016-08-01 22:20:25,461 - model - DEBUG - Step: 36/96
+2016-08-01 22:20:25,711 - model - DEBUG - Step: 37/96
+2016-08-01 22:20:25,977 - model - DEBUG - Step: 38/96
+2016-08-01 22:20:26,227 - model - DEBUG - Step: 39/96
+2016-08-01 22:20:26,477 - model - DEBUG - Step: 40/96
+2016-08-01 22:20:26,727 - model - DEBUG - Step: 41/96
+2016-08-01 22:20:26,993 - model - DEBUG - Step: 42/96
+2016-08-01 22:20:27,243 - model - DEBUG - Step: 43/96
+2016-08-01 22:20:27,477 - model - DEBUG - Step: 44/96
+2016-08-01 22:20:27,711 - model - DEBUG - Step: 45/96
+2016-08-01 22:20:27,961 - model - DEBUG - Step: 46/96
+2016-08-01 22:20:28,197 - model - DEBUG - Step: 47/96
+2016-08-01 22:20:28,461 - model - DEBUG - Step: 48/96
+2016-08-01 22:20:28,680 - model - DEBUG - Step: 49/96
+2016-08-01 22:20:28,930 - model - DEBUG - Step: 50/96
+2016-08-01 22:20:29,165 - model - DEBUG - Step: 51/96
+2016-08-01 22:20:29,400 - model - DEBUG - Step: 52/96
+2016-08-01 22:20:29,634 - model - DEBUG - Step: 53/96
+2016-08-01 22:20:29,884 - model - DEBUG - Step: 54/96
+2016-08-01 22:20:30,118 - model - DEBUG - Step: 55/96
+2016-08-01 22:20:30,352 - model - DEBUG - Step: 56/96
+2016-08-01 22:20:30,618 - model - DEBUG - Step: 57/96
+2016-08-01 22:20:30,884 - model - DEBUG - Step: 58/96
+2016-08-01 22:20:31,118 - model - DEBUG - Step: 59/96
+2016-08-01 22:20:31,368 - model - DEBUG - Step: 60/96
+2016-08-01 22:20:31,602 - model - DEBUG - Step: 61/96
+2016-08-01 22:20:31,852 - model - DEBUG - Step: 62/96
+2016-08-01 22:20:32,088 - model - DEBUG - Step: 63/96
+2016-08-01 22:20:32,352 - model - DEBUG - Step: 64/96
+2016-08-01 22:20:32,588 - model - DEBUG - Step: 65/96
+2016-08-01 22:20:32,838 - model - DEBUG - Step: 66/96
+2016-08-01 22:20:33,072 - model - DEBUG - Step: 67/96
+2016-08-01 22:20:33,322 - model - DEBUG - Step: 68/96
+2016-08-01 22:20:33,555 - model - DEBUG - Step: 69/96
+2016-08-01 22:20:33,822 - model - DEBUG - Step: 70/96
+2016-08-01 22:20:34,055 - model - DEBUG - Step: 71/96
+2016-08-01 22:20:34,352 - model - DEBUG - Step: 72/96
+2016-08-01 22:20:34,602 - model - DEBUG - Step: 73/96
+2016-08-01 22:20:34,868 - model - DEBUG - Step: 74/96
+2016-08-01 22:20:35,134 - model - DEBUG - Step: 75/96
+2016-08-01 22:20:35,400 - model - DEBUG - Step: 76/96
+2016-08-01 22:20:35,634 - model - DEBUG - Step: 77/96
+2016-08-01 22:20:35,931 - model - DEBUG - Step: 78/96
+2016-08-01 22:20:36,165 - model - DEBUG - Step: 79/96
+2016-08-01 22:20:36,431 - model - DEBUG - Step: 80/96
+2016-08-01 22:20:36,681 - model - DEBUG - Step: 81/96
+2016-08-01 22:20:36,931 - model - DEBUG - Step: 82/96
+2016-08-01 22:20:37,181 - model - DEBUG - Step: 83/96
+2016-08-01 22:20:37,431 - model - DEBUG - Step: 84/96
+2016-08-01 22:20:37,713 - model - DEBUG - Step: 85/96
+2016-08-01 22:20:37,963 - model - DEBUG - Step: 86/96
+2016-08-01 22:20:38,213 - model - DEBUG - Step: 87/96
+2016-08-01 22:20:38,463 - model - DEBUG - Step: 88/96
+2016-08-01 22:20:38,743 - model - DEBUG - Step: 89/96
+2016-08-01 22:20:38,993 - model - DEBUG - Step: 90/96
+2016-08-01 22:20:39,259 - model - DEBUG - Step: 91/96
+2016-08-01 22:20:39,556 - model - DEBUG - Step: 92/96
+2016-08-01 22:20:39,806 - model - DEBUG - Step: 93/96
+2016-08-01 22:20:40,072 - model - DEBUG - Step: 94/96
+2016-08-01 22:20:40,322 - model - DEBUG - Step: 95/96
+2016-08-01 22:20:40,618 - model - DEBUG - Step: 96/96
+2016-08-01 22:20:40,868 - model - INFO - Saving initial conditions...
+2016-08-01 22:20:40,868 - model - INFO - Saving initial conditions for FEWS...
+2016-08-01 22:21:20,608 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-01 22:21:20,608 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-01 22:21:20,608 - model - INFO - running for 96 timesteps
+2016-08-01 22:21:20,622 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-01 22:21:20,622 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-01 22:21:20,622 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-01 22:21:20,638 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-01 22:21:20,638 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-01 22:21:20,654 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-01 22:21:20,654 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-01 22:21:20,654 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-01 22:21:20,670 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-01 22:21:20,670 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-01 22:21:20,670 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-01 22:21:20,670 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-01 22:21:20,686 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-01 22:21:20,686 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-01 22:21:20,701 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-01 22:21:20,701 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-01 22:21:20,717 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-01 22:21:20,717 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-01 22:21:20,733 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-01 22:21:20,733 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-01 22:21:20,747 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-01 22:21:20,747 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-01 22:21:20,936 - model - INFO - Initializing of model variables..
+2016-08-01 22:21:21,013 - model - INFO - Create timeseries outputs...
+2016-08-01 22:21:21,013 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-01 22:21:21,013 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-01 22:21:21,013 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-01 22:21:21,029 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-01 22:21:21,076 - model - INFO - Saving summary maps...
+2016-08-01 22:21:21,108 - model - INFO - Starting Dynamic run...
+2016-08-01 22:21:21,108 - model - INFO - Setting initial conditions from state files
+2016-08-01 22:21:21,122 - model - DEBUG - Step: 1/96
+2016-08-01 22:21:21,358 - model - DEBUG - Step: 2/96
+2016-08-01 22:21:21,592 - model - DEBUG - Step: 3/96
+2016-08-01 22:21:21,826 - model - DEBUG - Step: 4/96
+2016-08-01 22:21:22,076 - model - DEBUG - Step: 5/96
+2016-08-01 22:21:22,311 - model - DEBUG - Step: 6/96
+2016-08-01 22:21:22,545 - model - DEBUG - Step: 7/96
+2016-08-01 22:21:22,779 - model - DEBUG - Step: 8/96
+2016-08-01 22:21:23,029 - model - DEBUG - Step: 9/96
+2016-08-01 22:21:23,263 - model - DEBUG - Step: 10/96
+2016-08-01 22:21:23,500 - model - DEBUG - Step: 11/96
+2016-08-01 22:21:23,733 - model - DEBUG - Step: 12/96
+2016-08-01 22:21:23,967 - model - DEBUG - Step: 13/96
+2016-08-01 22:21:24,233 - model - DEBUG - Step: 14/96
+2016-08-01 22:21:24,483 - model - DEBUG - Step: 15/96
+2016-08-01 22:21:24,733 - model - DEBUG - Step: 16/96
+2016-08-01 22:21:24,967 - model - DEBUG - Step: 17/96
+2016-08-01 22:21:25,217 - model - DEBUG - Step: 18/96
+2016-08-01 22:21:25,483 - model - DEBUG - Step: 19/96
+2016-08-01 22:21:25,733 - model - DEBUG - Step: 20/96
+2016-08-01 22:21:26,000 - model - DEBUG - Step: 21/96
+2016-08-01 22:21:26,265 - model - DEBUG - Step: 22/96
+2016-08-01 22:21:26,515 - model - DEBUG - Step: 23/96
+2016-08-01 22:21:26,765 - model - DEBUG - Step: 24/96
+2016-08-01 22:21:27,015 - model - DEBUG - Step: 25/96
+2016-08-01 22:21:27,280 - model - DEBUG - Step: 26/96
+2016-08-01 22:21:27,530 - model - DEBUG - Step: 27/96
+2016-08-01 22:21:27,796 - model - DEBUG - Step: 28/96
+2016-08-01 22:21:28,046 - model - DEBUG - Step: 29/96
+2016-08-01 22:21:28,296 - model - DEBUG - Step: 30/96
+2016-08-01 22:21:28,562 - model - DEBUG - Step: 31/96
+2016-08-01 22:21:28,812 - model - DEBUG - Step: 32/96
+2016-08-01 22:21:29,062 - model - DEBUG - Step: 33/96
+2016-08-01 22:21:29,328 - model - DEBUG - Step: 34/96
+2016-08-01 22:21:29,578 - model - DEBUG - Step: 35/96
+2016-08-01 22:21:29,828 - model - DEBUG - Step: 36/96
+2016-08-01 22:21:30,078 - model - DEBUG - Step: 37/96
+2016-08-01 22:21:30,344 - model - DEBUG - Step: 38/96
+2016-08-01 22:21:30,594 - model - DEBUG - Step: 39/96
+2016-08-01 22:21:30,844 - model - DEBUG - Step: 40/96
+2016-08-01 22:21:31,108 - model - DEBUG - Step: 41/96
+2016-08-01 22:21:31,358 - model - DEBUG - Step: 42/96
+2016-08-01 22:21:31,608 - model - DEBUG - Step: 43/96
+2016-08-01 22:21:31,858 - model - DEBUG - Step: 44/96
+2016-08-01 22:21:32,108 - model - DEBUG - Step: 45/96
+2016-08-01 22:21:32,358 - model - DEBUG - Step: 46/96
+2016-08-01 22:21:32,608 - model - DEBUG - Step: 47/96
+2016-08-01 22:21:32,858 - model - DEBUG - Step: 48/96
+2016-08-01 22:21:33,108 - model - DEBUG - Step: 49/96
+2016-08-01 22:21:33,358 - model - DEBUG - Step: 50/96
+2016-08-01 22:21:33,625 - model - DEBUG - Step: 51/96
+2016-08-01 22:21:33,891 - model - DEBUG - Step: 52/96
+2016-08-01 22:21:34,155 - model - DEBUG - Step: 53/96
+2016-08-01 22:21:34,405 - model - DEBUG - Step: 54/96
+2016-08-01 22:21:34,655 - model - DEBUG - Step: 55/96
+2016-08-01 22:21:34,921 - model - DEBUG - Step: 56/96
+2016-08-01 22:21:35,155 - model - DEBUG - Step: 57/96
+2016-08-01 22:21:35,421 - model - DEBUG - Step: 58/96
+2016-08-01 22:21:35,655 - model - DEBUG - Step: 59/96
+2016-08-01 22:21:35,905 - model - DEBUG - Step: 60/96
+2016-08-01 22:21:36,157 - model - DEBUG - Step: 61/96
+2016-08-01 22:21:36,407 - model - DEBUG - Step: 62/96
+2016-08-01 22:21:36,657 - model - DEBUG - Step: 63/96
+2016-08-01 22:21:36,907 - model - DEBUG - Step: 64/96
+2016-08-01 22:21:37,157 - model - DEBUG - Step: 65/96
+2016-08-01 22:21:37,407 - model - DEBUG - Step: 66/96
+2016-08-01 22:21:37,657 - model - DEBUG - Step: 67/96
+2016-08-01 22:21:37,891 - model - DEBUG - Step: 68/96
+2016-08-01 22:21:38,157 - model - DEBUG - Step: 69/96
+2016-08-01 22:21:38,407 - model - DEBUG - Step: 70/96
+2016-08-01 22:21:38,671 - model - DEBUG - Step: 71/96
+2016-08-01 22:21:38,921 - model - DEBUG - Step: 72/96
+2016-08-01 22:21:39,171 - model - DEBUG - Step: 73/96
+2016-08-01 22:21:39,437 - model - DEBUG - Step: 74/96
+2016-08-01 22:21:39,687 - model - DEBUG - Step: 75/96
+2016-08-01 22:21:39,937 - model - DEBUG - Step: 76/96
+2016-08-01 22:21:40,187 - model - DEBUG - Step: 77/96
+2016-08-01 22:21:40,437 - model - DEBUG - Step: 78/96
+2016-08-01 22:21:40,671 - model - DEBUG - Step: 79/96
+2016-08-01 22:21:40,953 - model - DEBUG - Step: 80/96
+2016-08-01 22:21:41,203 - model - DEBUG - Step: 81/96
+2016-08-01 22:21:41,453 - model - DEBUG - Step: 82/96
+2016-08-01 22:21:41,703 - model - DEBUG - Step: 83/96
+2016-08-01 22:21:41,953 - model - DEBUG - Step: 84/96
+2016-08-01 22:21:42,219 - model - DEBUG - Step: 85/96
+2016-08-01 22:21:42,484 - model - DEBUG - Step: 86/96
+2016-08-01 22:21:42,734 - model - DEBUG - Step: 87/96
+2016-08-01 22:21:42,984 - model - DEBUG - Step: 88/96
+2016-08-01 22:21:43,234 - model - DEBUG - Step: 89/96
+2016-08-01 22:21:43,500 - model - DEBUG - Step: 90/96
+2016-08-01 22:21:43,750 - model - DEBUG - Step: 91/96
+2016-08-01 22:21:44,016 - model - DEBUG - Step: 92/96
+2016-08-01 22:21:44,282 - model - DEBUG - Step: 93/96
+2016-08-01 22:21:44,532 - model - DEBUG - Step: 94/96
+2016-08-01 22:21:44,798 - model - DEBUG - Step: 95/96
+2016-08-01 22:21:45,048 - model - DEBUG - Step: 96/96
+2016-08-01 22:21:45,312 - model - INFO - Saving initial conditions...
+2016-08-01 22:21:45,312 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 09:55:01,740 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 09:55:01,740 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 09:55:01,740 - model - INFO - running for 96 timesteps
+2016-08-02 09:55:01,756 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 09:55:01,756 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 09:55:01,756 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 09:55:01,772 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 09:55:01,786 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 09:55:01,786 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 09:55:01,802 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 09:55:01,802 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 09:55:01,802 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 09:55:01,819 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 09:55:01,819 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 09:55:01,819 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 09:55:01,834 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 09:55:01,834 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 09:55:01,849 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 09:55:01,865 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 09:55:01,865 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 09:55:01,881 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 09:55:01,881 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 09:55:01,897 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 09:55:01,897 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 09:55:01,911 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 09:55:02,115 - model - INFO - Initializing of model variables..
+2016-08-02 09:55:02,209 - model - INFO - Create timeseries outputs...
+2016-08-02 09:55:02,209 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 09:55:02,209 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 09:55:02,209 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 09:55:02,209 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 09:55:02,286 - model - INFO - Saving summary maps...
+2016-08-02 09:55:02,302 - model - INFO - Starting Dynamic run...
+2016-08-02 09:55:02,302 - model - INFO - Setting initial conditions from state files
+2016-08-02 09:55:02,536 - model - DEBUG - Step: 1/96
+2016-08-02 09:55:02,819 - model - DEBUG - Step: 2/96
+2016-08-02 09:55:03,069 - model - DEBUG - Step: 3/96
+2016-08-02 09:55:03,334 - model - DEBUG - Step: 4/96
+2016-08-02 09:55:03,584 - model - DEBUG - Step: 5/96
+2016-08-02 09:55:03,865 - model - DEBUG - Step: 6/96
+2016-08-02 09:55:04,115 - model - DEBUG - Step: 7/96
+2016-08-02 09:55:04,365 - model - DEBUG - Step: 8/96
+2016-08-02 09:55:04,647 - model - DEBUG - Step: 9/96
+2016-08-02 09:55:04,974 - model - DEBUG - Step: 10/96
+2016-08-02 09:55:05,256 - model - DEBUG - Step: 11/96
+2016-08-02 09:55:05,506 - model - DEBUG - Step: 12/96
+2016-08-02 09:55:05,740 - model - DEBUG - Step: 13/96
+2016-08-02 09:55:05,990 - model - DEBUG - Step: 14/96
+2016-08-02 09:55:06,256 - model - DEBUG - Step: 15/96
+2016-08-02 09:55:06,522 - model - DEBUG - Step: 16/96
+2016-08-02 09:55:06,756 - model - DEBUG - Step: 17/96
+2016-08-02 09:55:07,023 - model - DEBUG - Step: 18/96
+2016-08-02 09:55:07,273 - model - DEBUG - Step: 19/96
+2016-08-02 09:55:07,553 - model - DEBUG - Step: 20/96
+2016-08-02 09:55:07,803 - model - DEBUG - Step: 21/96
+2016-08-02 09:55:08,069 - model - DEBUG - Step: 22/96
+2016-08-02 09:55:08,319 - model - DEBUG - Step: 23/96
+2016-08-02 09:55:08,601 - model - DEBUG - Step: 24/96
+2016-08-02 09:55:08,882 - model - DEBUG - Step: 25/96
+2016-08-02 09:55:09,148 - model - DEBUG - Step: 26/96
+2016-08-02 09:55:09,414 - model - DEBUG - Step: 27/96
+2016-08-02 09:55:09,694 - model - DEBUG - Step: 28/96
+2016-08-02 09:55:09,960 - model - DEBUG - Step: 29/96
+2016-08-02 09:55:10,242 - model - DEBUG - Step: 30/96
+2016-08-02 09:55:10,523 - model - DEBUG - Step: 31/96
+2016-08-02 09:55:10,805 - model - DEBUG - Step: 32/96
+2016-08-02 09:55:11,055 - model - DEBUG - Step: 33/96
+2016-08-02 09:55:11,305 - model - DEBUG - Step: 34/96
+2016-08-02 09:55:11,585 - model - DEBUG - Step: 35/96
+2016-08-02 09:55:11,851 - model - DEBUG - Step: 36/96
+2016-08-02 09:55:12,132 - model - DEBUG - Step: 37/96
+2016-08-02 09:55:12,398 - model - DEBUG - Step: 38/96
+2016-08-02 09:55:12,680 - model - DEBUG - Step: 39/96
+2016-08-02 09:55:12,944 - model - DEBUG - Step: 40/96
+2016-08-02 09:55:13,194 - model - DEBUG - Step: 41/96
+2016-08-02 09:55:13,460 - model - DEBUG - Step: 42/96
+2016-08-02 09:55:13,710 - model - DEBUG - Step: 43/96
+2016-08-02 09:55:13,992 - model - DEBUG - Step: 44/96
+2016-08-02 09:55:14,257 - model - DEBUG - Step: 45/96
+2016-08-02 09:55:14,523 - model - DEBUG - Step: 46/96
+2016-08-02 09:55:14,773 - model - DEBUG - Step: 47/96
+2016-08-02 09:55:15,069 - model - DEBUG - Step: 48/96
+2016-08-02 09:55:15,351 - model - DEBUG - Step: 49/96
+2016-08-02 09:55:15,601 - model - DEBUG - Step: 50/96
+2016-08-02 09:55:15,867 - model - DEBUG - Step: 51/96
+2016-08-02 09:55:16,132 - model - DEBUG - Step: 52/96
+2016-08-02 09:55:16,382 - model - DEBUG - Step: 53/96
+2016-08-02 09:55:16,648 - model - DEBUG - Step: 54/96
+2016-08-02 09:55:16,898 - model - DEBUG - Step: 55/96
+2016-08-02 09:55:17,180 - model - DEBUG - Step: 56/96
+2016-08-02 09:55:17,444 - model - DEBUG - Step: 57/96
+2016-08-02 09:55:17,726 - model - DEBUG - Step: 58/96
+2016-08-02 09:55:17,976 - model - DEBUG - Step: 59/96
+2016-08-02 09:55:18,257 - model - DEBUG - Step: 60/96
+2016-08-02 09:55:18,507 - model - DEBUG - Step: 61/96
+2016-08-02 09:55:18,773 - model - DEBUG - Step: 62/96
+2016-08-02 09:55:19,039 - model - DEBUG - Step: 63/96
+2016-08-02 09:55:19,305 - model - DEBUG - Step: 64/96
+2016-08-02 09:55:19,571 - model - DEBUG - Step: 65/96
+2016-08-02 09:55:19,851 - model - DEBUG - Step: 66/96
+2016-08-02 09:55:20,117 - model - DEBUG - Step: 67/96
+2016-08-02 09:55:20,382 - model - DEBUG - Step: 68/96
+2016-08-02 09:55:20,648 - model - DEBUG - Step: 69/96
+2016-08-02 09:55:20,946 - model - DEBUG - Step: 70/96
+2016-08-02 09:55:21,196 - model - DEBUG - Step: 71/96
+2016-08-02 09:55:21,476 - model - DEBUG - Step: 72/96
+2016-08-02 09:55:21,743 - model - DEBUG - Step: 73/96
+2016-08-02 09:55:22,007 - model - DEBUG - Step: 74/96
+2016-08-02 09:55:22,273 - model - DEBUG - Step: 75/96
+2016-08-02 09:55:22,523 - model - DEBUG - Step: 76/96
+2016-08-02 09:55:22,805 - model - DEBUG - Step: 77/96
+2016-08-02 09:55:23,055 - model - DEBUG - Step: 78/96
+2016-08-02 09:55:23,335 - model - DEBUG - Step: 79/96
+2016-08-02 09:55:23,618 - model - DEBUG - Step: 80/96
+2016-08-02 09:55:23,898 - model - DEBUG - Step: 81/96
+2016-08-02 09:55:24,148 - model - DEBUG - Step: 82/96
+2016-08-02 09:55:24,414 - model - DEBUG - Step: 83/96
+2016-08-02 09:55:24,696 - model - DEBUG - Step: 84/96
+2016-08-02 09:55:24,946 - model - DEBUG - Step: 85/96
+2016-08-02 09:55:25,211 - model - DEBUG - Step: 86/96
+2016-08-02 09:55:25,476 - model - DEBUG - Step: 87/96
+2016-08-02 09:55:25,743 - model - DEBUG - Step: 88/96
+2016-08-02 09:55:26,039 - model - DEBUG - Step: 89/96
+2016-08-02 09:55:26,368 - model - DEBUG - Step: 90/96
+2016-08-02 09:55:26,618 - model - DEBUG - Step: 91/96
+2016-08-02 09:55:26,898 - model - DEBUG - Step: 92/96
+2016-08-02 09:55:27,148 - model - DEBUG - Step: 93/96
+2016-08-02 09:55:27,476 - model - DEBUG - Step: 94/96
+2016-08-02 09:55:27,726 - model - DEBUG - Step: 95/96
+2016-08-02 09:55:27,993 - model - DEBUG - Step: 96/96
+2016-08-02 09:55:28,289 - model - INFO - Saving initial conditions...
+2016-08-02 09:55:28,289 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 10:12:51,819 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 10:12:51,819 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 10:12:51,819 - model - INFO - running for 96 timesteps
+2016-08-02 10:12:51,835 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 10:12:51,835 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 10:12:51,835 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 10:12:51,845 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 10:12:51,854 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 10:12:51,864 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 10:12:51,872 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 10:12:51,874 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 10:12:51,882 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 10:12:51,884 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 10:12:51,892 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 10:12:51,894 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 10:12:51,904 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 10:12:51,913 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 10:12:51,921 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 10:12:51,931 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 10:12:51,940 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 10:12:51,950 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 10:12:51,960 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 10:12:51,967 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 10:12:51,973 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 10:12:51,974 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 10:12:52,163 - model - INFO - Initializing of model variables..
+2016-08-02 10:12:52,250 - model - INFO - Create timeseries outputs...
+2016-08-02 10:12:52,250 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 10:12:52,253 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 10:12:52,255 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 10:12:52,256 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 10:12:52,315 - model - INFO - Saving summary maps...
+2016-08-02 10:12:52,335 - model - INFO - Starting Dynamic run...
+2016-08-02 10:12:52,335 - model - INFO - Setting initial conditions from state files
+2016-08-02 10:12:52,351 - model - DEBUG - Step: 1/96
+2016-08-02 10:12:52,599 - model - DEBUG - Step: 2/96
+2016-08-02 10:12:52,844 - model - DEBUG - Step: 3/96
+2016-08-02 10:12:53,082 - model - DEBUG - Step: 4/96
+2016-08-02 10:12:53,321 - model - DEBUG - Step: 5/96
+2016-08-02 10:12:53,558 - model - DEBUG - Step: 6/96
+2016-08-02 10:12:53,796 - model - DEBUG - Step: 7/96
+2016-08-02 10:12:54,032 - model - DEBUG - Step: 8/96
+2016-08-02 10:12:54,270 - model - DEBUG - Step: 9/96
+2016-08-02 10:12:54,510 - model - DEBUG - Step: 10/96
+2016-08-02 10:12:54,753 - model - DEBUG - Step: 11/96
+2016-08-02 10:12:54,992 - model - DEBUG - Step: 12/96
+2016-08-02 10:12:55,233 - model - DEBUG - Step: 13/96
+2016-08-02 10:12:55,476 - model - DEBUG - Step: 14/96
+2016-08-02 10:12:55,719 - model - DEBUG - Step: 15/96
+2016-08-02 10:12:55,960 - model - DEBUG - Step: 16/96
+2016-08-02 10:12:56,203 - model - DEBUG - Step: 17/96
+2016-08-02 10:12:56,448 - model - DEBUG - Step: 18/96
+2016-08-02 10:12:56,694 - model - DEBUG - Step: 19/96
+2016-08-02 10:12:56,937 - model - DEBUG - Step: 20/96
+2016-08-02 10:12:57,183 - model - DEBUG - Step: 21/96
+2016-08-02 10:12:57,426 - model - DEBUG - Step: 22/96
+2016-08-02 10:12:57,667 - model - DEBUG - Step: 23/96
+2016-08-02 10:12:57,908 - model - DEBUG - Step: 24/96
+2016-08-02 10:12:58,151 - model - DEBUG - Step: 25/96
+2016-08-02 10:12:58,394 - model - DEBUG - Step: 26/96
+2016-08-02 10:12:58,637 - model - DEBUG - Step: 27/96
+2016-08-02 10:12:58,878 - model - DEBUG - Step: 28/96
+2016-08-02 10:12:59,121 - model - DEBUG - Step: 29/96
+2016-08-02 10:12:59,362 - model - DEBUG - Step: 30/96
+2016-08-02 10:12:59,605 - model - DEBUG - Step: 31/96
+2016-08-02 10:12:59,848 - model - DEBUG - Step: 32/96
+2016-08-02 10:13:00,089 - model - DEBUG - Step: 33/96
+2016-08-02 10:13:00,332 - model - DEBUG - Step: 34/96
+2016-08-02 10:13:00,572 - model - DEBUG - Step: 35/96
+2016-08-02 10:13:00,816 - model - DEBUG - Step: 36/96
+2016-08-02 10:13:01,059 - model - DEBUG - Step: 37/96
+2016-08-02 10:13:01,302 - model - DEBUG - Step: 38/96
+2016-08-02 10:13:01,545 - model - DEBUG - Step: 39/96
+2016-08-02 10:13:01,786 - model - DEBUG - Step: 40/96
+2016-08-02 10:13:02,029 - model - DEBUG - Step: 41/96
+2016-08-02 10:13:02,273 - model - DEBUG - Step: 42/96
+2016-08-02 10:13:02,517 - model - DEBUG - Step: 43/96
+2016-08-02 10:13:02,763 - model - DEBUG - Step: 44/96
+2016-08-02 10:13:03,009 - model - DEBUG - Step: 45/96
+2016-08-02 10:13:03,255 - model - DEBUG - Step: 46/96
+2016-08-02 10:13:03,500 - model - DEBUG - Step: 47/96
+2016-08-02 10:13:03,746 - model - DEBUG - Step: 48/96
+2016-08-02 10:13:03,990 - model - DEBUG - Step: 49/96
+2016-08-02 10:13:04,236 - model - DEBUG - Step: 50/96
+2016-08-02 10:13:04,482 - model - DEBUG - Step: 51/96
+2016-08-02 10:13:04,724 - model - DEBUG - Step: 52/96
+2016-08-02 10:13:04,967 - model - DEBUG - Step: 53/96
+2016-08-02 10:13:05,207 - model - DEBUG - Step: 54/96
+2016-08-02 10:13:05,450 - model - DEBUG - Step: 55/96
+2016-08-02 10:13:05,697 - model - DEBUG - Step: 56/96
+2016-08-02 10:13:05,941 - model - DEBUG - Step: 57/96
+2016-08-02 10:13:06,187 - model - DEBUG - Step: 58/96
+2016-08-02 10:13:06,437 - model - DEBUG - Step: 59/96
+2016-08-02 10:13:06,687 - model - DEBUG - Step: 60/96
+2016-08-02 10:13:06,937 - model - DEBUG - Step: 61/96
+2016-08-02 10:13:07,187 - model - DEBUG - Step: 62/96
+2016-08-02 10:13:07,436 - model - DEBUG - Step: 63/96
+2016-08-02 10:13:07,686 - model - DEBUG - Step: 64/96
+2016-08-02 10:13:07,936 - model - DEBUG - Step: 65/96
+2016-08-02 10:13:08,186 - model - DEBUG - Step: 66/96
+2016-08-02 10:13:08,437 - model - DEBUG - Step: 67/96
+2016-08-02 10:13:08,688 - model - DEBUG - Step: 68/96
+2016-08-02 10:13:08,940 - model - DEBUG - Step: 69/96
+2016-08-02 10:13:09,190 - model - DEBUG - Step: 70/96
+2016-08-02 10:13:09,440 - model - DEBUG - Step: 71/96
+2016-08-02 10:13:09,690 - model - DEBUG - Step: 72/96
+2016-08-02 10:13:09,940 - model - DEBUG - Step: 73/96
+2016-08-02 10:13:10,190 - model - DEBUG - Step: 74/96
+2016-08-02 10:13:10,438 - model - DEBUG - Step: 75/96
+2016-08-02 10:13:10,687 - model - DEBUG - Step: 76/96
+2016-08-02 10:13:10,936 - model - DEBUG - Step: 77/96
+2016-08-02 10:13:11,184 - model - DEBUG - Step: 78/96
+2016-08-02 10:13:11,434 - model - DEBUG - Step: 79/96
+2016-08-02 10:13:11,686 - model - DEBUG - Step: 80/96
+2016-08-02 10:13:11,936 - model - DEBUG - Step: 81/96
+2016-08-02 10:13:12,186 - model - DEBUG - Step: 82/96
+2016-08-02 10:13:12,434 - model - DEBUG - Step: 83/96
+2016-08-02 10:13:12,684 - model - DEBUG - Step: 84/96
+2016-08-02 10:13:12,934 - model - DEBUG - Step: 85/96
+2016-08-02 10:13:13,184 - model - DEBUG - Step: 86/96
+2016-08-02 10:13:13,434 - model - DEBUG - Step: 87/96
+2016-08-02 10:13:13,684 - model - DEBUG - Step: 88/96
+2016-08-02 10:13:13,934 - model - DEBUG - Step: 89/96
+2016-08-02 10:13:14,186 - model - DEBUG - Step: 90/96
+2016-08-02 10:13:14,437 - model - DEBUG - Step: 91/96
+2016-08-02 10:13:14,688 - model - DEBUG - Step: 92/96
+2016-08-02 10:13:14,938 - model - DEBUG - Step: 93/96
+2016-08-02 10:13:15,190 - model - DEBUG - Step: 94/96
+2016-08-02 10:13:15,440 - model - DEBUG - Step: 95/96
+2016-08-02 10:13:15,690 - model - DEBUG - Step: 96/96
+2016-08-02 10:13:15,946 - model - INFO - Saving initial conditions...
+2016-08-02 10:13:15,951 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 10:46:57,678 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 10:46:57,678 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 10:46:57,678 - model - INFO - running for 96 timesteps
+2016-08-02 10:46:57,694 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 10:46:57,694 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 10:46:57,694 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 10:46:57,710 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 10:46:57,710 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 10:46:57,710 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 10:46:57,726 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 10:46:57,726 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 10:46:57,726 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 10:46:57,740 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 10:46:57,740 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 10:46:57,740 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 10:46:57,756 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 10:46:57,756 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 10:46:57,773 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 10:46:57,773 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 10:46:57,788 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 10:46:57,788 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 10:46:57,803 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 10:46:57,803 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 10:46:57,819 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 10:46:57,819 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 10:46:58,006 - model - INFO - Initializing of model variables..
+2016-08-02 10:46:58,085 - model - INFO - Create timeseries outputs...
+2016-08-02 10:46:58,085 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 10:46:58,085 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 10:46:58,101 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 10:46:58,101 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 10:46:58,148 - model - INFO - Saving summary maps...
+2016-08-02 10:46:58,178 - model - INFO - Starting Dynamic run...
+2016-08-02 10:46:58,178 - model - INFO - Setting initial conditions from state files
+2016-08-02 10:46:58,194 - model - DEBUG - Step: 1/96
+2016-08-02 10:46:58,428 - model - DEBUG - Step: 2/96
+2016-08-02 10:46:58,663 - model - DEBUG - Step: 3/96
+2016-08-02 10:46:58,913 - model - DEBUG - Step: 4/96
+2016-08-02 10:46:59,163 - model - DEBUG - Step: 5/96
+2016-08-02 10:46:59,398 - model - DEBUG - Step: 6/96
+2016-08-02 10:46:59,648 - model - DEBUG - Step: 7/96
+2016-08-02 10:46:59,881 - model - DEBUG - Step: 8/96
+2016-08-02 10:47:00,115 - model - DEBUG - Step: 9/96
+2016-08-02 10:47:00,365 - model - DEBUG - Step: 10/96
+2016-08-02 10:47:00,615 - model - DEBUG - Step: 11/96
+2016-08-02 10:47:00,865 - model - DEBUG - Step: 12/96
+2016-08-02 10:47:01,115 - model - DEBUG - Step: 13/96
+2016-08-02 10:47:01,365 - model - DEBUG - Step: 14/96
+2016-08-02 10:47:01,615 - model - DEBUG - Step: 15/96
+2016-08-02 10:47:01,867 - model - DEBUG - Step: 16/96
+2016-08-02 10:47:02,131 - model - DEBUG - Step: 17/96
+2016-08-02 10:47:02,398 - model - DEBUG - Step: 18/96
+2016-08-02 10:47:02,663 - model - DEBUG - Step: 19/96
+2016-08-02 10:47:02,928 - model - DEBUG - Step: 20/96
+2016-08-02 10:47:03,226 - model - DEBUG - Step: 21/96
+2016-08-02 10:47:03,492 - model - DEBUG - Step: 22/96
+2016-08-02 10:47:03,756 - model - DEBUG - Step: 23/96
+2016-08-02 10:47:04,023 - model - DEBUG - Step: 24/96
+2016-08-02 10:47:04,289 - model - DEBUG - Step: 25/96
+2016-08-02 10:47:04,539 - model - DEBUG - Step: 26/96
+2016-08-02 10:47:04,803 - model - DEBUG - Step: 27/96
+2016-08-02 10:47:05,069 - model - DEBUG - Step: 28/96
+2016-08-02 10:47:05,335 - model - DEBUG - Step: 29/96
+2016-08-02 10:47:05,585 - model - DEBUG - Step: 30/96
+2016-08-02 10:47:05,835 - model - DEBUG - Step: 31/96
+2016-08-02 10:47:06,101 - model - DEBUG - Step: 32/96
+2016-08-02 10:47:06,367 - model - DEBUG - Step: 33/96
+2016-08-02 10:47:06,617 - model - DEBUG - Step: 34/96
+2016-08-02 10:47:06,881 - model - DEBUG - Step: 35/96
+2016-08-02 10:47:07,131 - model - DEBUG - Step: 36/96
+2016-08-02 10:47:07,381 - model - DEBUG - Step: 37/96
+2016-08-02 10:47:07,648 - model - DEBUG - Step: 38/96
+2016-08-02 10:47:07,898 - model - DEBUG - Step: 39/96
+2016-08-02 10:47:08,148 - model - DEBUG - Step: 40/96
+2016-08-02 10:47:08,414 - model - DEBUG - Step: 41/96
+2016-08-02 10:47:08,680 - model - DEBUG - Step: 42/96
+2016-08-02 10:47:08,914 - model - DEBUG - Step: 43/96
+2016-08-02 10:47:09,180 - model - DEBUG - Step: 44/96
+2016-08-02 10:47:09,430 - model - DEBUG - Step: 45/96
+2016-08-02 10:47:09,696 - model - DEBUG - Step: 46/96
+2016-08-02 10:47:09,946 - model - DEBUG - Step: 47/96
+2016-08-02 10:47:10,196 - model - DEBUG - Step: 48/96
+2016-08-02 10:47:10,446 - model - DEBUG - Step: 49/96
+2016-08-02 10:47:10,711 - model - DEBUG - Step: 50/96
+2016-08-02 10:47:10,976 - model - DEBUG - Step: 51/96
+2016-08-02 10:47:11,243 - model - DEBUG - Step: 52/96
+2016-08-02 10:47:11,493 - model - DEBUG - Step: 53/96
+2016-08-02 10:47:11,743 - model - DEBUG - Step: 54/96
+2016-08-02 10:47:12,009 - model - DEBUG - Step: 55/96
+2016-08-02 10:47:12,243 - model - DEBUG - Step: 56/96
+2016-08-02 10:47:12,493 - model - DEBUG - Step: 57/96
+2016-08-02 10:47:12,726 - model - DEBUG - Step: 58/96
+2016-08-02 10:47:12,976 - model - DEBUG - Step: 59/96
+2016-08-02 10:47:13,226 - model - DEBUG - Step: 60/96
+2016-08-02 10:47:13,476 - model - DEBUG - Step: 61/96
+2016-08-02 10:47:13,727 - model - DEBUG - Step: 62/96
+2016-08-02 10:47:13,977 - model - DEBUG - Step: 63/96
+2016-08-02 10:47:14,227 - model - DEBUG - Step: 64/96
+2016-08-02 10:47:14,493 - model - DEBUG - Step: 65/96
+2016-08-02 10:47:14,743 - model - DEBUG - Step: 66/96
+2016-08-02 10:47:14,993 - model - DEBUG - Step: 67/96
+2016-08-02 10:47:15,227 - model - DEBUG - Step: 68/96
+2016-08-02 10:47:15,493 - model - DEBUG - Step: 69/96
+2016-08-02 10:47:15,743 - model - DEBUG - Step: 70/96
+2016-08-02 10:47:16,009 - model - DEBUG - Step: 71/96
+2016-08-02 10:47:16,259 - model - DEBUG - Step: 72/96
+2016-08-02 10:47:16,509 - model - DEBUG - Step: 73/96
+2016-08-02 10:47:16,775 - model - DEBUG - Step: 74/96
+2016-08-02 10:47:17,039 - model - DEBUG - Step: 75/96
+2016-08-02 10:47:17,289 - model - DEBUG - Step: 76/96
+2016-08-02 10:47:17,525 - model - DEBUG - Step: 77/96
+2016-08-02 10:47:17,775 - model - DEBUG - Step: 78/96
+2016-08-02 10:47:18,025 - model - DEBUG - Step: 79/96
+2016-08-02 10:47:18,275 - model - DEBUG - Step: 80/96
+2016-08-02 10:47:18,539 - model - DEBUG - Step: 81/96
+2016-08-02 10:47:18,789 - model - DEBUG - Step: 82/96
+2016-08-02 10:47:19,055 - model - DEBUG - Step: 83/96
+2016-08-02 10:47:19,322 - model - DEBUG - Step: 84/96
+2016-08-02 10:47:19,586 - model - DEBUG - Step: 85/96
+2016-08-02 10:47:19,836 - model - DEBUG - Step: 86/96
+2016-08-02 10:47:20,086 - model - DEBUG - Step: 87/96
+2016-08-02 10:47:20,336 - model - DEBUG - Step: 88/96
+2016-08-02 10:47:20,586 - model - DEBUG - Step: 89/96
+2016-08-02 10:47:20,836 - model - DEBUG - Step: 90/96
+2016-08-02 10:47:21,086 - model - DEBUG - Step: 91/96
+2016-08-02 10:47:21,352 - model - DEBUG - Step: 92/96
+2016-08-02 10:47:21,618 - model - DEBUG - Step: 93/96
+2016-08-02 10:47:21,884 - model - DEBUG - Step: 94/96
+2016-08-02 10:47:22,164 - model - DEBUG - Step: 95/96
+2016-08-02 10:47:22,414 - model - DEBUG - Step: 96/96
+2016-08-02 10:47:22,680 - model - INFO - Saving initial conditions...
+2016-08-02 10:47:22,680 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 10:57:27,977 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 10:57:27,979 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 10:57:27,979 - model - INFO - running for 96 timesteps
+2016-08-02 10:57:27,996 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 10:57:27,996 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 10:57:27,996 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 10:57:28,006 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 10:57:28,015 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 10:57:28,025 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 10:57:28,033 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 10:57:28,035 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 10:57:28,043 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 10:57:28,045 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 10:57:28,055 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 10:57:28,055 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 10:57:28,065 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 10:57:28,073 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 10:57:28,084 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 10:57:28,092 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 10:57:28,102 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 10:57:28,111 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 10:57:28,121 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 10:57:28,130 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 10:57:28,138 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 10:57:28,138 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 10:57:28,325 - model - INFO - Initializing of model variables..
+2016-08-02 10:57:28,414 - model - INFO - Create timeseries outputs...
+2016-08-02 10:57:28,414 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 10:57:28,415 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 10:57:28,417 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 10:57:28,418 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 10:57:28,477 - model - INFO - Saving summary maps...
+2016-08-02 10:57:28,497 - model - INFO - Starting Dynamic run...
+2016-08-02 10:57:28,499 - model - INFO - Setting initial conditions from state files
+2016-08-02 10:57:28,513 - model - DEBUG - Step: 1/96
+2016-08-02 10:57:28,766 - model - DEBUG - Step: 2/96
+2016-08-02 10:57:29,009 - model - DEBUG - Step: 3/96
+2016-08-02 10:57:29,249 - model - DEBUG - Step: 4/96
+2016-08-02 10:57:29,486 - model - DEBUG - Step: 5/96
+2016-08-02 10:57:29,723 - model - DEBUG - Step: 6/96
+2016-08-02 10:57:29,960 - model - DEBUG - Step: 7/96
+2016-08-02 10:57:30,200 - model - DEBUG - Step: 8/96
+2016-08-02 10:57:30,437 - model - DEBUG - Step: 9/96
+2016-08-02 10:57:30,676 - model - DEBUG - Step: 10/96
+2016-08-02 10:57:30,913 - model - DEBUG - Step: 11/96
+2016-08-02 10:57:31,150 - model - DEBUG - Step: 12/96
+2016-08-02 10:57:31,385 - model - DEBUG - Step: 13/96
+2016-08-02 10:57:31,625 - model - DEBUG - Step: 14/96
+2016-08-02 10:57:31,864 - model - DEBUG - Step: 15/96
+2016-08-02 10:57:32,105 - model - DEBUG - Step: 16/96
+2016-08-02 10:57:32,349 - model - DEBUG - Step: 17/96
+2016-08-02 10:57:32,592 - model - DEBUG - Step: 18/96
+2016-08-02 10:57:32,832 - model - DEBUG - Step: 19/96
+2016-08-02 10:57:33,079 - model - DEBUG - Step: 20/96
+2016-08-02 10:57:33,322 - model - DEBUG - Step: 21/96
+2016-08-02 10:57:33,562 - model - DEBUG - Step: 22/96
+2016-08-02 10:57:33,805 - model - DEBUG - Step: 23/96
+2016-08-02 10:57:34,046 - model - DEBUG - Step: 24/96
+2016-08-02 10:57:34,296 - model - DEBUG - Step: 25/96
+2016-08-02 10:57:34,539 - model - DEBUG - Step: 26/96
+2016-08-02 10:57:34,786 - model - DEBUG - Step: 27/96
+2016-08-02 10:57:35,029 - model - DEBUG - Step: 28/96
+2016-08-02 10:57:35,275 - model - DEBUG - Step: 29/96
+2016-08-02 10:57:35,519 - model - DEBUG - Step: 30/96
+2016-08-02 10:57:35,765 - model - DEBUG - Step: 31/96
+2016-08-02 10:57:36,009 - model - DEBUG - Step: 32/96
+2016-08-02 10:57:36,253 - model - DEBUG - Step: 33/96
+2016-08-02 10:57:36,497 - model - DEBUG - Step: 34/96
+2016-08-02 10:57:36,740 - model - DEBUG - Step: 35/96
+2016-08-02 10:57:36,986 - model - DEBUG - Step: 36/96
+2016-08-02 10:57:37,230 - model - DEBUG - Step: 37/96
+2016-08-02 10:57:37,473 - model - DEBUG - Step: 38/96
+2016-08-02 10:57:37,719 - model - DEBUG - Step: 39/96
+2016-08-02 10:57:37,961 - model - DEBUG - Step: 40/96
+2016-08-02 10:57:38,206 - model - DEBUG - Step: 41/96
+2016-08-02 10:57:38,451 - model - DEBUG - Step: 42/96
+2016-08-02 10:57:38,698 - model - DEBUG - Step: 43/96
+2016-08-02 10:57:38,947 - model - DEBUG - Step: 44/96
+2016-08-02 10:57:39,197 - model - DEBUG - Step: 45/96
+2016-08-02 10:57:39,446 - model - DEBUG - Step: 46/96
+2016-08-02 10:57:39,697 - model - DEBUG - Step: 47/96
+2016-08-02 10:57:39,954 - model - DEBUG - Step: 48/96
+2016-08-02 10:57:40,219 - model - DEBUG - Step: 49/96
+2016-08-02 10:57:40,467 - model - DEBUG - Step: 50/96
+2016-08-02 10:57:40,721 - model - DEBUG - Step: 51/96
+2016-08-02 10:57:40,971 - model - DEBUG - Step: 52/96
+2016-08-02 10:57:41,220 - model - DEBUG - Step: 53/96
+2016-08-02 10:57:41,463 - model - DEBUG - Step: 54/96
+2016-08-02 10:57:41,711 - model - DEBUG - Step: 55/96
+2016-08-02 10:57:41,966 - model - DEBUG - Step: 56/96
+2016-08-02 10:57:42,227 - model - DEBUG - Step: 57/96
+2016-08-02 10:57:42,476 - model - DEBUG - Step: 58/96
+2016-08-02 10:57:42,724 - model - DEBUG - Step: 59/96
+2016-08-02 10:57:42,983 - model - DEBUG - Step: 60/96
+2016-08-02 10:57:43,244 - model - DEBUG - Step: 61/96
+2016-08-02 10:57:43,496 - model - DEBUG - Step: 62/96
+2016-08-02 10:57:43,750 - model - DEBUG - Step: 63/96
+2016-08-02 10:57:44,000 - model - DEBUG - Step: 64/96
+2016-08-02 10:57:44,250 - model - DEBUG - Step: 65/96
+2016-08-02 10:57:44,500 - model - DEBUG - Step: 66/96
+2016-08-02 10:57:44,750 - model - DEBUG - Step: 67/96
+2016-08-02 10:57:45,000 - model - DEBUG - Step: 68/96
+2016-08-02 10:57:45,250 - model - DEBUG - Step: 69/96
+2016-08-02 10:57:45,500 - model - DEBUG - Step: 70/96
+2016-08-02 10:57:45,749 - model - DEBUG - Step: 71/96
+2016-08-02 10:57:45,999 - model - DEBUG - Step: 72/96
+2016-08-02 10:57:46,247 - model - DEBUG - Step: 73/96
+2016-08-02 10:57:46,500 - model - DEBUG - Step: 74/96
+2016-08-02 10:57:46,749 - model - DEBUG - Step: 75/96
+2016-08-02 10:57:46,996 - model - DEBUG - Step: 76/96
+2016-08-02 10:57:47,243 - model - DEBUG - Step: 77/96
+2016-08-02 10:57:47,492 - model - DEBUG - Step: 78/96
+2016-08-02 10:57:47,742 - model - DEBUG - Step: 79/96
+2016-08-02 10:57:47,990 - model - DEBUG - Step: 80/96
+2016-08-02 10:57:48,240 - model - DEBUG - Step: 81/96
+2016-08-02 10:57:48,490 - model - DEBUG - Step: 82/96
+2016-08-02 10:57:48,740 - model - DEBUG - Step: 83/96
+2016-08-02 10:57:48,992 - model - DEBUG - Step: 84/96
+2016-08-02 10:57:49,243 - model - DEBUG - Step: 85/96
+2016-08-02 10:57:49,493 - model - DEBUG - Step: 86/96
+2016-08-02 10:57:49,743 - model - DEBUG - Step: 87/96
+2016-08-02 10:57:49,993 - model - DEBUG - Step: 88/96
+2016-08-02 10:57:50,243 - model - DEBUG - Step: 89/96
+2016-08-02 10:57:50,493 - model - DEBUG - Step: 90/96
+2016-08-02 10:57:50,743 - model - DEBUG - Step: 91/96
+2016-08-02 10:57:50,993 - model - DEBUG - Step: 92/96
+2016-08-02 10:57:51,244 - model - DEBUG - Step: 93/96
+2016-08-02 10:57:51,494 - model - DEBUG - Step: 94/96
+2016-08-02 10:57:51,743 - model - DEBUG - Step: 95/96
+2016-08-02 10:57:51,993 - model - DEBUG - Step: 96/96
+2016-08-02 10:57:52,247 - model - INFO - Saving initial conditions...
+2016-08-02 10:57:52,255 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 11:01:06,802 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 11:01:06,802 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 11:01:06,803 - model - INFO - running for 96 timesteps
+2016-08-02 11:01:06,819 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 11:01:06,819 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 11:01:06,819 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 11:01:06,828 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 11:01:06,838 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 11:01:06,846 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 11:01:06,857 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 11:01:06,858 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 11:01:06,867 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 11:01:06,868 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 11:01:06,877 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 11:01:06,878 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 11:01:06,888 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 11:01:06,897 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 11:01:06,907 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 11:01:06,915 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 11:01:06,926 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 11:01:06,936 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 11:01:06,944 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 11:01:06,953 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 11:01:06,960 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 11:01:06,961 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 11:01:07,148 - model - INFO - Initializing of model variables..
+2016-08-02 11:01:07,239 - model - INFO - Create timeseries outputs...
+2016-08-02 11:01:07,240 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 11:01:07,240 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 11:01:07,243 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 11:01:07,244 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 11:01:07,305 - model - INFO - Saving summary maps...
+2016-08-02 11:01:07,325 - model - INFO - Starting Dynamic run...
+2016-08-02 11:01:07,326 - model - INFO - Setting initial conditions from state files
+2016-08-02 11:01:07,342 - model - DEBUG - Step: 1/96
+2016-08-02 11:01:07,592 - model - DEBUG - Step: 2/96
+2016-08-02 11:01:07,836 - model - DEBUG - Step: 3/96
+2016-08-02 11:01:08,076 - model - DEBUG - Step: 4/96
+2016-08-02 11:01:08,313 - model - DEBUG - Step: 5/96
+2016-08-02 11:01:08,552 - model - DEBUG - Step: 6/96
+2016-08-02 11:01:08,789 - model - DEBUG - Step: 7/96
+2016-08-02 11:01:09,028 - model - DEBUG - Step: 8/96
+2016-08-02 11:01:09,265 - model - DEBUG - Step: 9/96
+2016-08-02 11:01:09,500 - model - DEBUG - Step: 10/96
+2016-08-02 11:01:09,736 - model - DEBUG - Step: 11/96
+2016-08-02 11:01:09,973 - model - DEBUG - Step: 12/96
+2016-08-02 11:01:10,211 - model - DEBUG - Step: 13/96
+2016-08-02 11:01:10,451 - model - DEBUG - Step: 14/96
+2016-08-02 11:01:10,690 - model - DEBUG - Step: 15/96
+2016-08-02 11:01:10,930 - model - DEBUG - Step: 16/96
+2016-08-02 11:01:11,167 - model - DEBUG - Step: 17/96
+2016-08-02 11:01:11,407 - model - DEBUG - Step: 18/96
+2016-08-02 11:01:11,648 - model - DEBUG - Step: 19/96
+2016-08-02 11:01:11,888 - model - DEBUG - Step: 20/96
+2016-08-02 11:01:12,130 - model - DEBUG - Step: 21/96
+2016-08-02 11:01:12,371 - model - DEBUG - Step: 22/96
+2016-08-02 11:01:12,612 - model - DEBUG - Step: 23/96
+2016-08-02 11:01:12,854 - model - DEBUG - Step: 24/96
+2016-08-02 11:01:13,095 - model - DEBUG - Step: 25/96
+2016-08-02 11:01:13,336 - model - DEBUG - Step: 26/96
+2016-08-02 11:01:13,582 - model - DEBUG - Step: 27/96
+2016-08-02 11:01:13,826 - model - DEBUG - Step: 28/96
+2016-08-02 11:01:14,072 - model - DEBUG - Step: 29/96
+2016-08-02 11:01:14,319 - model - DEBUG - Step: 30/96
+2016-08-02 11:01:14,565 - model - DEBUG - Step: 31/96
+2016-08-02 11:01:14,811 - model - DEBUG - Step: 32/96
+2016-08-02 11:01:15,053 - model - DEBUG - Step: 33/96
+2016-08-02 11:01:15,296 - model - DEBUG - Step: 34/96
+2016-08-02 11:01:15,539 - model - DEBUG - Step: 35/96
+2016-08-02 11:01:15,782 - model - DEBUG - Step: 36/96
+2016-08-02 11:01:16,026 - model - DEBUG - Step: 37/96
+2016-08-02 11:01:16,269 - model - DEBUG - Step: 38/96
+2016-08-02 11:01:16,513 - model - DEBUG - Step: 39/96
+2016-08-02 11:01:16,756 - model - DEBUG - Step: 40/96
+2016-08-02 11:01:17,000 - model - DEBUG - Step: 41/96
+2016-08-02 11:01:17,246 - model - DEBUG - Step: 42/96
+2016-08-02 11:01:17,493 - model - DEBUG - Step: 43/96
+2016-08-02 11:01:17,740 - model - DEBUG - Step: 44/96
+2016-08-02 11:01:17,986 - model - DEBUG - Step: 45/96
+2016-08-02 11:01:18,233 - model - DEBUG - Step: 46/96
+2016-08-02 11:01:18,477 - model - DEBUG - Step: 47/96
+2016-08-02 11:01:18,723 - model - DEBUG - Step: 48/96
+2016-08-02 11:01:18,976 - model - DEBUG - Step: 49/96
+2016-08-02 11:01:19,223 - model - DEBUG - Step: 50/96
+2016-08-02 11:01:19,470 - model - DEBUG - Step: 51/96
+2016-08-02 11:01:19,714 - model - DEBUG - Step: 52/96
+2016-08-02 11:01:19,959 - model - DEBUG - Step: 53/96
+2016-08-02 11:01:20,200 - model - DEBUG - Step: 54/96
+2016-08-02 11:01:20,446 - model - DEBUG - Step: 55/96
+2016-08-02 11:01:20,693 - model - DEBUG - Step: 56/96
+2016-08-02 11:01:20,940 - model - DEBUG - Step: 57/96
+2016-08-02 11:01:21,184 - model - DEBUG - Step: 58/96
+2016-08-02 11:01:21,431 - model - DEBUG - Step: 59/96
+2016-08-02 11:01:21,681 - model - DEBUG - Step: 60/96
+2016-08-02 11:01:21,928 - model - DEBUG - Step: 61/96
+2016-08-02 11:01:22,177 - model - DEBUG - Step: 62/96
+2016-08-02 11:01:22,427 - model - DEBUG - Step: 63/96
+2016-08-02 11:01:22,676 - model - DEBUG - Step: 64/96
+2016-08-02 11:01:22,924 - model - DEBUG - Step: 65/96
+2016-08-02 11:01:23,173 - model - DEBUG - Step: 66/96
+2016-08-02 11:01:23,421 - model - DEBUG - Step: 67/96
+2016-08-02 11:01:23,671 - model - DEBUG - Step: 68/96
+2016-08-02 11:01:23,921 - model - DEBUG - Step: 69/96
+2016-08-02 11:01:24,170 - model - DEBUG - Step: 70/96
+2016-08-02 11:01:24,418 - model - DEBUG - Step: 71/96
+2016-08-02 11:01:24,667 - model - DEBUG - Step: 72/96
+2016-08-02 11:01:24,915 - model - DEBUG - Step: 73/96
+2016-08-02 11:01:25,163 - model - DEBUG - Step: 74/96
+2016-08-02 11:01:25,411 - model - DEBUG - Step: 75/96
+2016-08-02 11:01:25,658 - model - DEBUG - Step: 76/96
+2016-08-02 11:01:25,905 - model - DEBUG - Step: 77/96
+2016-08-02 11:01:26,154 - model - DEBUG - Step: 78/96
+2016-08-02 11:01:26,401 - model - DEBUG - Step: 79/96
+2016-08-02 11:01:26,648 - model - DEBUG - Step: 80/96
+2016-08-02 11:01:26,898 - model - DEBUG - Step: 81/96
+2016-08-02 11:01:27,148 - model - DEBUG - Step: 82/96
+2016-08-02 11:01:27,398 - model - DEBUG - Step: 83/96
+2016-08-02 11:01:27,648 - model - DEBUG - Step: 84/96
+2016-08-02 11:01:27,898 - model - DEBUG - Step: 85/96
+2016-08-02 11:01:28,148 - model - DEBUG - Step: 86/96
+2016-08-02 11:01:28,401 - model - DEBUG - Step: 87/96
+2016-08-02 11:01:28,651 - model - DEBUG - Step: 88/96
+2016-08-02 11:01:28,901 - model - DEBUG - Step: 89/96
+2016-08-02 11:01:29,150 - model - DEBUG - Step: 90/96
+2016-08-02 11:01:29,400 - model - DEBUG - Step: 91/96
+2016-08-02 11:01:29,650 - model - DEBUG - Step: 92/96
+2016-08-02 11:01:29,901 - model - DEBUG - Step: 93/96
+2016-08-02 11:01:30,151 - model - DEBUG - Step: 94/96
+2016-08-02 11:01:30,404 - model - DEBUG - Step: 95/96
+2016-08-02 11:01:30,654 - model - DEBUG - Step: 96/96
+2016-08-02 11:01:30,908 - model - INFO - Saving initial conditions...
+2016-08-02 11:01:30,915 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 11:08:35,549 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 11:08:35,549 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 11:08:35,549 - model - INFO - running for 96 timesteps
+2016-08-02 11:08:35,565 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 11:08:35,565 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 11:08:35,565 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 11:08:35,575 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 11:08:35,585 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 11:08:35,594 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 11:08:35,604 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 11:08:35,605 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 11:08:35,614 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 11:08:35,615 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 11:08:35,625 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 11:08:35,625 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 11:08:35,634 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 11:08:35,644 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 11:08:35,654 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 11:08:35,664 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 11:08:35,674 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 11:08:35,684 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 11:08:35,693 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 11:08:35,700 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 11:08:35,709 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 11:08:35,709 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 11:08:35,894 - model - INFO - Initializing of model variables..
+2016-08-02 11:08:35,984 - model - INFO - Create timeseries outputs...
+2016-08-02 11:08:35,986 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 11:08:35,987 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 11:08:35,989 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 11:08:35,990 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 11:08:36,051 - model - INFO - Saving summary maps...
+2016-08-02 11:08:36,069 - model - INFO - Starting Dynamic run...
+2016-08-02 11:08:36,071 - model - INFO - Setting initial conditions from state files
+2016-08-02 11:08:36,085 - model - DEBUG - Step: 1/96
+2016-08-02 11:08:36,335 - model - DEBUG - Step: 2/96
+2016-08-02 11:08:36,579 - model - DEBUG - Step: 3/96
+2016-08-02 11:08:36,816 - model - DEBUG - Step: 4/96
+2016-08-02 11:08:37,055 - model - DEBUG - Step: 5/96
+2016-08-02 11:08:37,293 - model - DEBUG - Step: 6/96
+2016-08-02 11:08:37,533 - model - DEBUG - Step: 7/96
+2016-08-02 11:08:37,775 - model - DEBUG - Step: 8/96
+2016-08-02 11:08:38,013 - model - DEBUG - Step: 9/96
+2016-08-02 11:08:38,253 - model - DEBUG - Step: 10/96
+2016-08-02 11:08:38,490 - model - DEBUG - Step: 11/96
+2016-08-02 11:08:38,729 - model - DEBUG - Step: 12/96
+2016-08-02 11:08:38,967 - model - DEBUG - Step: 13/96
+2016-08-02 11:08:39,204 - model - DEBUG - Step: 14/96
+2016-08-02 11:08:39,444 - model - DEBUG - Step: 15/96
+2016-08-02 11:08:39,683 - model - DEBUG - Step: 16/96
+2016-08-02 11:08:39,923 - model - DEBUG - Step: 17/96
+2016-08-02 11:08:40,164 - model - DEBUG - Step: 18/96
+2016-08-02 11:08:40,407 - model - DEBUG - Step: 19/96
+2016-08-02 11:08:40,651 - model - DEBUG - Step: 20/96
+2016-08-02 11:08:40,898 - model - DEBUG - Step: 21/96
+2016-08-02 11:08:41,141 - model - DEBUG - Step: 22/96
+2016-08-02 11:08:41,382 - model - DEBUG - Step: 23/96
+2016-08-02 11:08:41,631 - model - DEBUG - Step: 24/96
+2016-08-02 11:08:41,872 - model - DEBUG - Step: 25/96
+2016-08-02 11:08:42,118 - model - DEBUG - Step: 26/96
+2016-08-02 11:08:42,367 - model - DEBUG - Step: 27/96
+2016-08-02 11:08:42,611 - model - DEBUG - Step: 28/96
+2016-08-02 11:08:42,861 - model - DEBUG - Step: 29/96
+2016-08-02 11:08:43,107 - model - DEBUG - Step: 30/96
+2016-08-02 11:08:43,351 - model - DEBUG - Step: 31/96
+2016-08-02 11:08:43,598 - model - DEBUG - Step: 32/96
+2016-08-02 11:08:43,844 - model - DEBUG - Step: 33/96
+2016-08-02 11:08:44,088 - model - DEBUG - Step: 34/96
+2016-08-02 11:08:44,339 - model - DEBUG - Step: 35/96
+2016-08-02 11:08:44,586 - model - DEBUG - Step: 36/96
+2016-08-02 11:08:44,825 - model - DEBUG - Step: 37/96
+2016-08-02 11:08:45,072 - model - DEBUG - Step: 38/96
+2016-08-02 11:08:45,322 - model - DEBUG - Step: 39/96
+2016-08-02 11:08:45,565 - model - DEBUG - Step: 40/96
+2016-08-02 11:08:45,812 - model - DEBUG - Step: 41/96
+2016-08-02 11:08:46,058 - model - DEBUG - Step: 42/96
+2016-08-02 11:08:46,305 - model - DEBUG - Step: 43/96
+2016-08-02 11:08:46,555 - model - DEBUG - Step: 44/96
+2016-08-02 11:08:46,806 - model - DEBUG - Step: 45/96
+2016-08-02 11:08:47,061 - model - DEBUG - Step: 46/96
+2016-08-02 11:08:47,309 - model - DEBUG - Step: 47/96
+2016-08-02 11:08:47,566 - model - DEBUG - Step: 48/96
+2016-08-02 11:08:47,821 - model - DEBUG - Step: 49/96
+2016-08-02 11:08:48,079 - model - DEBUG - Step: 50/96
+2016-08-02 11:08:48,349 - model - DEBUG - Step: 51/96
+2016-08-02 11:08:48,618 - model - DEBUG - Step: 52/96
+2016-08-02 11:08:48,885 - model - DEBUG - Step: 53/96
+2016-08-02 11:08:49,137 - model - DEBUG - Step: 54/96
+2016-08-02 11:08:49,390 - model - DEBUG - Step: 55/96
+2016-08-02 11:08:49,638 - model - DEBUG - Step: 56/96
+2016-08-02 11:08:49,884 - model - DEBUG - Step: 57/96
+2016-08-02 11:08:50,132 - model - DEBUG - Step: 58/96
+2016-08-02 11:08:50,378 - model - DEBUG - Step: 59/96
+2016-08-02 11:08:50,628 - model - DEBUG - Step: 60/96
+2016-08-02 11:08:50,878 - model - DEBUG - Step: 61/96
+2016-08-02 11:08:51,128 - model - DEBUG - Step: 62/96
+2016-08-02 11:08:51,378 - model - DEBUG - Step: 63/96
+2016-08-02 11:08:51,627 - model - DEBUG - Step: 64/96
+2016-08-02 11:08:51,877 - model - DEBUG - Step: 65/96
+2016-08-02 11:08:52,128 - model - DEBUG - Step: 66/96
+2016-08-02 11:08:52,378 - model - DEBUG - Step: 67/96
+2016-08-02 11:08:52,628 - model - DEBUG - Step: 68/96
+2016-08-02 11:08:52,894 - model - DEBUG - Step: 69/96
+2016-08-02 11:08:53,154 - model - DEBUG - Step: 70/96
+2016-08-02 11:08:53,408 - model - DEBUG - Step: 71/96
+2016-08-02 11:08:53,664 - model - DEBUG - Step: 72/96
+2016-08-02 11:08:53,927 - model - DEBUG - Step: 73/96
+2016-08-02 11:08:54,190 - model - DEBUG - Step: 74/96
+2016-08-02 11:08:54,444 - model - DEBUG - Step: 75/96
+2016-08-02 11:08:54,693 - model - DEBUG - Step: 76/96
+2016-08-02 11:08:54,941 - model - DEBUG - Step: 77/96
+2016-08-02 11:08:55,191 - model - DEBUG - Step: 78/96
+2016-08-02 11:08:55,443 - model - DEBUG - Step: 79/96
+2016-08-02 11:08:55,691 - model - DEBUG - Step: 80/96
+2016-08-02 11:08:55,944 - model - DEBUG - Step: 81/96
+2016-08-02 11:08:56,194 - model - DEBUG - Step: 82/96
+2016-08-02 11:08:56,444 - model - DEBUG - Step: 83/96
+2016-08-02 11:08:56,697 - model - DEBUG - Step: 84/96
+2016-08-02 11:08:56,959 - model - DEBUG - Step: 85/96
+2016-08-02 11:08:57,213 - model - DEBUG - Step: 86/96
+2016-08-02 11:08:57,464 - model - DEBUG - Step: 87/96
+2016-08-02 11:08:57,717 - model - DEBUG - Step: 88/96
+2016-08-02 11:08:57,967 - model - DEBUG - Step: 89/96
+2016-08-02 11:08:58,220 - model - DEBUG - Step: 90/96
+2016-08-02 11:08:58,473 - model - DEBUG - Step: 91/96
+2016-08-02 11:08:58,743 - model - DEBUG - Step: 92/96
+2016-08-02 11:08:59,007 - model - DEBUG - Step: 93/96
+2016-08-02 11:08:59,270 - model - DEBUG - Step: 94/96
+2016-08-02 11:08:59,536 - model - DEBUG - Step: 95/96
+2016-08-02 11:08:59,796 - model - DEBUG - Step: 96/96
+2016-08-02 11:09:00,056 - model - INFO - Saving initial conditions...
+2016-08-02 11:09:00,063 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 11:15:14,691 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 11:15:14,691 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 11:15:14,693 - model - INFO - running for 96 timesteps
+2016-08-02 11:15:14,707 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 11:15:14,707 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 11:15:14,709 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 11:15:14,717 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 11:15:14,727 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 11:15:14,736 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 11:15:14,746 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 11:15:14,746 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 11:15:14,756 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 11:15:14,757 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 11:15:14,766 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 11:15:14,767 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 11:15:14,778 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 11:15:14,786 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 11:15:14,796 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 11:15:14,806 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 11:15:14,815 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 11:15:14,825 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 11:15:14,835 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 11:15:14,842 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 11:15:14,849 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 11:15:14,851 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 11:15:15,038 - model - INFO - Initializing of model variables..
+2016-08-02 11:15:15,125 - model - INFO - Create timeseries outputs...
+2016-08-02 11:15:15,127 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 11:15:15,128 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 11:15:15,130 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 11:15:15,131 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 11:15:15,190 - model - INFO - Saving summary maps...
+2016-08-02 11:15:15,210 - model - INFO - Starting Dynamic run...
+2016-08-02 11:15:15,210 - model - INFO - Setting initial conditions from state files
+2016-08-02 11:15:15,227 - model - DEBUG - Step: 1/96
+2016-08-02 11:15:15,480 - model - DEBUG - Step: 2/96
+2016-08-02 11:15:15,726 - model - DEBUG - Step: 3/96
+2016-08-02 11:15:15,967 - model - DEBUG - Step: 4/96
+2016-08-02 11:15:16,204 - model - DEBUG - Step: 5/96
+2016-08-02 11:15:16,443 - model - DEBUG - Step: 6/96
+2016-08-02 11:15:16,680 - model - DEBUG - Step: 7/96
+2016-08-02 11:15:16,921 - model - DEBUG - Step: 8/96
+2016-08-02 11:15:17,157 - model - DEBUG - Step: 9/96
+2016-08-02 11:15:17,395 - model - DEBUG - Step: 10/96
+2016-08-02 11:15:17,632 - model - DEBUG - Step: 11/96
+2016-08-02 11:15:17,871 - model - DEBUG - Step: 12/96
+2016-08-02 11:15:18,108 - model - DEBUG - Step: 13/96
+2016-08-02 11:15:18,348 - model - DEBUG - Step: 14/96
+2016-08-02 11:15:18,589 - model - DEBUG - Step: 15/96
+2016-08-02 11:15:18,829 - model - DEBUG - Step: 16/96
+2016-08-02 11:15:19,069 - model - DEBUG - Step: 17/96
+2016-08-02 11:15:19,311 - model - DEBUG - Step: 18/96
+2016-08-02 11:15:19,555 - model - DEBUG - Step: 19/96
+2016-08-02 11:15:19,798 - model - DEBUG - Step: 20/96
+2016-08-02 11:15:20,040 - model - DEBUG - Step: 21/96
+2016-08-02 11:15:20,282 - model - DEBUG - Step: 22/96
+2016-08-02 11:15:20,523 - model - DEBUG - Step: 23/96
+2016-08-02 11:15:20,766 - model - DEBUG - Step: 24/96
+2016-08-02 11:15:21,009 - model - DEBUG - Step: 25/96
+2016-08-02 11:15:21,255 - model - DEBUG - Step: 26/96
+2016-08-02 11:15:21,499 - model - DEBUG - Step: 27/96
+2016-08-02 11:15:21,744 - model - DEBUG - Step: 28/96
+2016-08-02 11:15:21,990 - model - DEBUG - Step: 29/96
+2016-08-02 11:15:22,236 - model - DEBUG - Step: 30/96
+2016-08-02 11:15:22,480 - model - DEBUG - Step: 31/96
+2016-08-02 11:15:22,726 - model - DEBUG - Step: 32/96
+2016-08-02 11:15:22,970 - model - DEBUG - Step: 33/96
+2016-08-02 11:15:23,213 - model - DEBUG - Step: 34/96
+2016-08-02 11:15:23,459 - model - DEBUG - Step: 35/96
+2016-08-02 11:15:23,701 - model - DEBUG - Step: 36/96
+2016-08-02 11:15:23,944 - model - DEBUG - Step: 37/96
+2016-08-02 11:15:24,187 - model - DEBUG - Step: 38/96
+2016-08-02 11:15:24,430 - model - DEBUG - Step: 39/96
+2016-08-02 11:15:24,671 - model - DEBUG - Step: 40/96
+2016-08-02 11:15:24,914 - model - DEBUG - Step: 41/96
+2016-08-02 11:15:25,157 - model - DEBUG - Step: 42/96
+2016-08-02 11:15:25,401 - model - DEBUG - Step: 43/96
+2016-08-02 11:15:25,648 - model - DEBUG - Step: 44/96
+2016-08-02 11:15:25,895 - model - DEBUG - Step: 45/96
+2016-08-02 11:15:26,141 - model - DEBUG - Step: 46/96
+2016-08-02 11:15:26,387 - model - DEBUG - Step: 47/96
+2016-08-02 11:15:26,641 - model - DEBUG - Step: 48/96
+2016-08-02 11:15:26,894 - model - DEBUG - Step: 49/96
+2016-08-02 11:15:27,150 - model - DEBUG - Step: 50/96
+2016-08-02 11:15:27,417 - model - DEBUG - Step: 51/96
+2016-08-02 11:15:27,680 - model - DEBUG - Step: 52/96
+2016-08-02 11:15:27,947 - model - DEBUG - Step: 53/96
+2016-08-02 11:15:28,198 - model - DEBUG - Step: 54/96
+2016-08-02 11:15:28,451 - model - DEBUG - Step: 55/96
+2016-08-02 11:15:28,698 - model - DEBUG - Step: 56/96
+2016-08-02 11:15:28,947 - model - DEBUG - Step: 57/96
+2016-08-02 11:15:29,196 - model - DEBUG - Step: 58/96
+2016-08-02 11:15:29,444 - model - DEBUG - Step: 59/96
+2016-08-02 11:15:29,697 - model - DEBUG - Step: 60/96
+2016-08-02 11:15:29,957 - model - DEBUG - Step: 61/96
+2016-08-02 11:15:30,207 - model - DEBUG - Step: 62/96
+2016-08-02 11:15:30,456 - model - DEBUG - Step: 63/96
+2016-08-02 11:15:30,703 - model - DEBUG - Step: 64/96
+2016-08-02 11:15:30,953 - model - DEBUG - Step: 65/96
+2016-08-02 11:15:31,206 - model - DEBUG - Step: 66/96
+2016-08-02 11:15:31,457 - model - DEBUG - Step: 67/96
+2016-08-02 11:15:31,713 - model - DEBUG - Step: 68/96
+2016-08-02 11:15:31,979 - model - DEBUG - Step: 69/96
+2016-08-02 11:15:32,240 - model - DEBUG - Step: 70/96
+2016-08-02 11:15:32,497 - model - DEBUG - Step: 71/96
+2016-08-02 11:15:32,755 - model - DEBUG - Step: 72/96
+2016-08-02 11:15:33,016 - model - DEBUG - Step: 73/96
+2016-08-02 11:15:33,279 - model - DEBUG - Step: 74/96
+2016-08-02 11:15:33,533 - model - DEBUG - Step: 75/96
+2016-08-02 11:15:33,782 - model - DEBUG - Step: 76/96
+2016-08-02 11:15:34,030 - model - DEBUG - Step: 77/96
+2016-08-02 11:15:34,279 - model - DEBUG - Step: 78/96
+2016-08-02 11:15:34,532 - model - DEBUG - Step: 79/96
+2016-08-02 11:15:34,783 - model - DEBUG - Step: 80/96
+2016-08-02 11:15:35,036 - model - DEBUG - Step: 81/96
+2016-08-02 11:15:35,289 - model - DEBUG - Step: 82/96
+2016-08-02 11:15:35,539 - model - DEBUG - Step: 83/96
+2016-08-02 11:15:35,792 - model - DEBUG - Step: 84/96
+2016-08-02 11:15:36,052 - model - DEBUG - Step: 85/96
+2016-08-02 11:15:36,305 - model - DEBUG - Step: 86/96
+2016-08-02 11:15:36,555 - model - DEBUG - Step: 87/96
+2016-08-02 11:15:36,806 - model - DEBUG - Step: 88/96
+2016-08-02 11:15:37,059 - model - DEBUG - Step: 89/96
+2016-08-02 11:15:37,311 - model - DEBUG - Step: 90/96
+2016-08-02 11:15:37,563 - model - DEBUG - Step: 91/96
+2016-08-02 11:15:37,831 - model - DEBUG - Step: 92/96
+2016-08-02 11:15:38,095 - model - DEBUG - Step: 93/96
+2016-08-02 11:15:38,355 - model - DEBUG - Step: 94/96
+2016-08-02 11:15:38,618 - model - DEBUG - Step: 95/96
+2016-08-02 11:15:38,877 - model - DEBUG - Step: 96/96
+2016-08-02 11:15:39,134 - model - INFO - Saving initial conditions...
+2016-08-02 11:15:39,140 - model - INFO - Saving initial conditions for FEWS...
+2016-08-02 11:49:55,405 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-02 11:49:55,405 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-02 11:49:55,421 - model - INFO - running for 96 timesteps
+2016-08-02 11:49:55,483 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-02 11:49:55,483 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-02 11:49:55,483 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-02 11:49:55,500 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-02 11:49:55,515 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-02 11:49:55,515 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-02 11:49:55,530 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-02 11:49:55,530 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-02 11:49:55,530 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-02 11:49:55,530 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-02 11:49:55,546 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-02 11:49:55,546 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-02 11:49:55,562 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-02 11:49:55,562 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-02 11:49:55,578 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-02 11:49:55,592 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-02 11:49:55,608 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-02 11:49:55,608 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-02 11:49:55,625 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-02 11:49:55,625 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-02 11:49:55,640 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-02 11:49:55,640 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-02 11:49:55,858 - model - INFO - Initializing of model variables..
+2016-08-02 11:49:55,953 - model - INFO - Create timeseries outputs...
+2016-08-02 11:49:55,953 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-02 11:49:55,953 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-02 11:49:55,953 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-02 11:49:55,953 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-02 11:49:56,015 - model - INFO - Saving summary maps...
+2016-08-02 11:49:56,046 - model - INFO - Starting Dynamic run...
+2016-08-02 11:49:56,046 - model - INFO - Setting initial conditions from state files
+2016-08-02 11:49:56,062 - model - DEBUG - Step: 1/96
+2016-08-02 11:49:56,296 - model - DEBUG - Step: 2/96
+2016-08-02 11:49:56,546 - model - DEBUG - Step: 3/96
+2016-08-02 11:49:56,780 - model - DEBUG - Step: 4/96
+2016-08-02 11:49:57,015 - model - DEBUG - Step: 5/96
+2016-08-02 11:49:57,250 - model - DEBUG - Step: 6/96
+2016-08-02 11:49:57,500 - model - DEBUG - Step: 7/96
+2016-08-02 11:49:57,733 - model - DEBUG - Step: 8/96
+2016-08-02 11:49:57,983 - model - DEBUG - Step: 9/96
+2016-08-02 11:49:58,219 - model - DEBUG - Step: 10/96
+2016-08-02 11:49:58,453 - model - DEBUG - Step: 11/96
+2016-08-02 11:49:58,687 - model - DEBUG - Step: 12/96
+2016-08-02 11:49:58,921 - model - DEBUG - Step: 13/96
+2016-08-02 11:49:59,171 - model - DEBUG - Step: 14/96
+2016-08-02 11:49:59,421 - model - DEBUG - Step: 15/96
+2016-08-02 11:49:59,655 - model - DEBUG - Step: 16/96
+2016-08-02 11:49:59,891 - model - DEBUG - Step: 17/96
+2016-08-02 11:50:00,141 - model - DEBUG - Step: 18/96
+2016-08-02 11:50:00,391 - model - DEBUG - Step: 19/96
+2016-08-02 11:50:00,625 - model - DEBUG - Step: 20/96
+2016-08-02 11:50:00,858 - model - DEBUG - Step: 21/96
+2016-08-02 11:50:01,125 - model - DEBUG - Step: 22/96
+2016-08-02 11:50:01,358 - model - DEBUG - Step: 23/96
+2016-08-02 11:50:01,608 - model - DEBUG - Step: 24/96
+2016-08-02 11:50:01,844 - model - DEBUG - Step: 25/96
+2016-08-02 11:50:02,094 - model - DEBUG - Step: 26/96
+2016-08-02 11:50:02,344 - model - DEBUG - Step: 27/96
+2016-08-02 11:50:02,578 - model - DEBUG - Step: 28/96
+2016-08-02 11:50:02,844 - model - DEBUG - Step: 29/96
+2016-08-02 11:50:03,078 - model - DEBUG - Step: 30/96
+2016-08-02 11:50:03,328 - model - DEBUG - Step: 31/96
+2016-08-02 11:50:03,562 - model - DEBUG - Step: 32/96
+2016-08-02 11:50:03,796 - model - DEBUG - Step: 33/96
+2016-08-02 11:50:04,046 - model - DEBUG - Step: 34/96
+2016-08-02 11:50:04,280 - model - DEBUG - Step: 35/96
+2016-08-02 11:50:04,516 - model - DEBUG - Step: 36/96
+2016-08-02 11:50:04,766 - model - DEBUG - Step: 37/96
+2016-08-02 11:50:05,000 - model - DEBUG - Step: 38/96
+2016-08-02 11:50:05,234 - model - DEBUG - Step: 39/96
+2016-08-02 11:50:05,484 - model - DEBUG - Step: 40/96
+2016-08-02 11:50:05,719 - model - DEBUG - Step: 41/96
+2016-08-02 11:50:05,969 - model - DEBUG - Step: 42/96
+2016-08-02 11:50:06,203 - model - DEBUG - Step: 43/96
+2016-08-02 11:50:06,453 - model - DEBUG - Step: 44/96
+2016-08-02 11:50:06,687 - model - DEBUG - Step: 45/96
+2016-08-02 11:50:06,937 - model - DEBUG - Step: 46/96
+2016-08-02 11:50:07,187 - model - DEBUG - Step: 47/96
+2016-08-02 11:50:07,421 - model - DEBUG - Step: 48/96
+2016-08-02 11:50:07,671 - model - DEBUG - Step: 49/96
+2016-08-02 11:50:07,921 - model - DEBUG - Step: 50/96
+2016-08-02 11:50:08,187 - model - DEBUG - Step: 51/96
+2016-08-02 11:50:08,437 - model - DEBUG - Step: 52/96
+2016-08-02 11:50:08,703 - model - DEBUG - Step: 53/96
+2016-08-02 11:50:08,969 - model - DEBUG - Step: 54/96
+2016-08-02 11:50:09,219 - model - DEBUG - Step: 55/96
+2016-08-02 11:50:09,453 - model - DEBUG - Step: 56/96
+2016-08-02 11:50:09,703 - model - DEBUG - Step: 57/96
+2016-08-02 11:50:09,937 - model - DEBUG - Step: 58/96
+2016-08-02 11:50:10,187 - model - DEBUG - Step: 59/96
+2016-08-02 11:50:10,421 - model - DEBUG - Step: 60/96
+2016-08-02 11:50:10,671 - model - DEBUG - Step: 61/96
+2016-08-02 11:50:10,921 - model - DEBUG - Step: 62/96
+2016-08-02 11:50:11,171 - model - DEBUG - Step: 63/96
+2016-08-02 11:50:11,421 - model - DEBUG - Step: 64/96
+2016-08-02 11:50:11,657 - model - DEBUG - Step: 65/96
+2016-08-02 11:50:11,907 - model - DEBUG - Step: 66/96
+2016-08-02 11:50:12,157 - model - DEBUG - Step: 67/96
+2016-08-02 11:50:12,407 - model - DEBUG - Step: 68/96
+2016-08-02 11:50:12,657 - model - DEBUG - Step: 69/96
+2016-08-02 11:50:12,907 - model - DEBUG - Step: 70/96
+2016-08-02 11:50:13,157 - model - DEBUG - Step: 71/96
+2016-08-02 11:50:13,407 - model - DEBUG - Step: 72/96
+2016-08-02 11:50:13,671 - model - DEBUG - Step: 73/96
+2016-08-02 11:50:13,923 - model - DEBUG - Step: 74/96
+2016-08-02 11:50:14,173 - model - DEBUG - Step: 75/96
+2016-08-02 11:50:14,423 - model - DEBUG - Step: 76/96
+2016-08-02 11:50:14,687 - model - DEBUG - Step: 77/96
+2016-08-02 11:50:14,923 - model - DEBUG - Step: 78/96
+2016-08-02 11:50:15,187 - model - DEBUG - Step: 79/96
+2016-08-02 11:50:15,437 - model - DEBUG - Step: 80/96
+2016-08-02 11:50:15,687 - model - DEBUG - Step: 81/96
+2016-08-02 11:50:15,937 - model - DEBUG - Step: 82/96
+2016-08-02 11:50:16,173 - model - DEBUG - Step: 83/96
+2016-08-02 11:50:16,423 - model - DEBUG - Step: 84/96
+2016-08-02 11:50:16,673 - model - DEBUG - Step: 85/96
+2016-08-02 11:50:16,923 - model - DEBUG - Step: 86/96
+2016-08-02 11:50:17,173 - model - DEBUG - Step: 87/96
+2016-08-02 11:50:17,423 - model - DEBUG - Step: 88/96
+2016-08-02 11:50:17,673 - model - DEBUG - Step: 89/96
+2016-08-02 11:50:17,923 - model - DEBUG - Step: 90/96
+2016-08-02 11:50:18,173 - model - DEBUG - Step: 91/96
+2016-08-02 11:50:18,437 - model - DEBUG - Step: 92/96
+2016-08-02 11:50:18,703 - model - DEBUG - Step: 93/96
+2016-08-02 11:50:18,953 - model - DEBUG - Step: 94/96
+2016-08-02 11:50:19,203 - model - DEBUG - Step: 95/96
+2016-08-02 11:50:19,453 - model - DEBUG - Step: 96/96
+2016-08-02 11:50:19,703 - model - INFO - Saving initial conditions...
+2016-08-02 11:50:19,720 - model - INFO - Saving initial conditions for FEWS...
+2016-08-03 17:47:47,778 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-03 17:47:47,785 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-03 17:47:47,786 - model - INFO - running for 96 timesteps
+2016-08-03 17:47:47,908 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-03 17:47:47,908 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-03 17:47:47,910 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-03 17:47:47,924 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-03 17:47:47,937 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-03 17:47:47,948 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-03 17:47:47,959 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-03 17:47:47,959 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-03 17:47:47,969 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-03 17:47:47,970 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-03 17:47:47,979 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-03 17:47:47,980 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-03 17:47:47,989 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-03 17:47:47,999 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-03 17:47:48,009 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-03 17:47:48,019 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-03 17:47:48,029 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-03 17:47:48,039 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-03 17:47:48,049 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-03 17:47:48,058 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-03 17:47:48,065 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-03 17:47:48,066 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-03 17:47:48,309 - model - INFO - Initializing of model variables..
+2016-08-03 17:47:48,398 - model - INFO - Create timeseries outputs...
+2016-08-03 17:47:48,417 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-03 17:47:48,418 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-03 17:47:48,420 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-03 17:47:48,421 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-03 17:47:48,482 - model - INFO - Saving summary maps...
+2016-08-03 17:47:48,523 - model - INFO - Starting Dynamic run...
+2016-08-03 17:47:48,525 - model - INFO - Setting initial conditions from state files
+2016-08-03 17:47:48,644 - model - DEBUG - Step: 1/96
+2016-08-03 17:47:48,980 - model - DEBUG - Step: 2/96
+2016-08-03 17:47:49,223 - model - DEBUG - Step: 3/96
+2016-08-03 17:47:49,487 - model - DEBUG - Step: 4/96
+2016-08-03 17:47:49,753 - model - DEBUG - Step: 5/96
+2016-08-03 17:47:50,025 - model - DEBUG - Step: 6/96
+2016-08-03 17:47:50,263 - model - DEBUG - Step: 7/96
+2016-08-03 17:47:50,536 - model - DEBUG - Step: 8/96
+2016-08-03 17:47:50,806 - model - DEBUG - Step: 9/96
+2016-08-03 17:47:51,112 - model - DEBUG - Step: 10/96
+2016-08-03 17:47:51,351 - model - DEBUG - Step: 11/96
+2016-08-03 17:47:51,644 - model - DEBUG - Step: 12/96
+2016-08-03 17:47:51,891 - model - DEBUG - Step: 13/96
+2016-08-03 17:47:52,158 - model - DEBUG - Step: 14/96
+2016-08-03 17:47:52,401 - model - DEBUG - Step: 15/96
+2016-08-03 17:47:52,752 - model - DEBUG - Step: 16/96
+2016-08-03 17:47:53,002 - model - DEBUG - Step: 17/96
+2016-08-03 17:47:53,302 - model - DEBUG - Step: 18/96
+2016-08-03 17:47:53,542 - model - DEBUG - Step: 19/96
+2016-08-03 17:47:53,812 - model - DEBUG - Step: 20/96
+2016-08-03 17:47:54,071 - model - DEBUG - Step: 21/96
+2016-08-03 17:47:54,341 - model - DEBUG - Step: 22/96
+2016-08-03 17:47:54,644 - model - DEBUG - Step: 23/96
+2016-08-03 17:47:54,921 - model - DEBUG - Step: 24/96
+2016-08-03 17:47:55,250 - model - DEBUG - Step: 25/96
+2016-08-03 17:47:55,581 - model - DEBUG - Step: 26/96
+2016-08-03 17:47:55,851 - model - DEBUG - Step: 27/96
+2016-08-03 17:47:56,127 - model - DEBUG - Step: 28/96
+2016-08-03 17:47:56,424 - model - DEBUG - Step: 29/96
+2016-08-03 17:47:56,724 - model - DEBUG - Step: 30/96
+2016-08-03 17:47:57,000 - model - DEBUG - Step: 31/96
+2016-08-03 17:47:57,315 - model - DEBUG - Step: 32/96
+2016-08-03 17:47:57,588 - model - DEBUG - Step: 33/96
+2016-08-03 17:47:57,875 - model - DEBUG - Step: 34/96
+2016-08-03 17:47:58,157 - model - DEBUG - Step: 35/96
+2016-08-03 17:47:58,461 - model - DEBUG - Step: 36/96
+2016-08-03 17:47:58,732 - model - DEBUG - Step: 37/96
+2016-08-03 17:47:59,036 - model - DEBUG - Step: 38/96
+2016-08-03 17:47:59,303 - model - DEBUG - Step: 39/96
+2016-08-03 17:47:59,586 - model - DEBUG - Step: 40/96
+2016-08-03 17:47:59,855 - model - DEBUG - Step: 41/96
+2016-08-03 17:48:00,131 - model - DEBUG - Step: 42/96
+2016-08-03 17:48:00,430 - model - DEBUG - Step: 43/96
+2016-08-03 17:48:00,755 - model - DEBUG - Step: 44/96
+2016-08-03 17:48:01,019 - model - DEBUG - Step: 45/96
+2016-08-03 17:48:01,313 - model - DEBUG - Step: 46/96
+2016-08-03 17:48:01,578 - model - DEBUG - Step: 47/96
+2016-08-03 17:48:01,851 - model - DEBUG - Step: 48/96
+2016-08-03 17:48:02,138 - model - DEBUG - Step: 49/96
+2016-08-03 17:48:02,479 - model - DEBUG - Step: 50/96
+2016-08-03 17:48:02,773 - model - DEBUG - Step: 51/96
+2016-08-03 17:48:03,063 - model - DEBUG - Step: 52/96
+2016-08-03 17:48:03,332 - model - DEBUG - Step: 53/96
+2016-08-03 17:48:03,658 - model - DEBUG - Step: 54/96
+2016-08-03 17:48:03,926 - model - DEBUG - Step: 55/96
+2016-08-03 17:48:04,193 - model - DEBUG - Step: 56/96
+2016-08-03 17:48:04,487 - model - DEBUG - Step: 57/96
+2016-08-03 17:48:04,825 - model - DEBUG - Step: 58/96
+2016-08-03 17:48:05,092 - model - DEBUG - Step: 59/96
+2016-08-03 17:48:05,375 - model - DEBUG - Step: 60/96
+2016-08-03 17:48:05,651 - model - DEBUG - Step: 61/96
+2016-08-03 17:48:05,959 - model - DEBUG - Step: 62/96
+2016-08-03 17:48:06,223 - model - DEBUG - Step: 63/96
+2016-08-03 17:48:06,512 - model - DEBUG - Step: 64/96
+2016-08-03 17:48:06,795 - model - DEBUG - Step: 65/96
+2016-08-03 17:48:07,069 - model - DEBUG - Step: 66/96
+2016-08-03 17:48:07,332 - model - DEBUG - Step: 67/96
+2016-08-03 17:48:07,648 - model - DEBUG - Step: 68/96
+2016-08-03 17:48:07,924 - model - DEBUG - Step: 69/96
+2016-08-03 17:48:08,242 - model - DEBUG - Step: 70/96
+2016-08-03 17:48:08,509 - model - DEBUG - Step: 71/96
+2016-08-03 17:48:08,801 - model - DEBUG - Step: 72/96
+2016-08-03 17:48:09,065 - model - DEBUG - Step: 73/96
+2016-08-03 17:48:09,384 - model - DEBUG - Step: 74/96
+2016-08-03 17:48:09,651 - model - DEBUG - Step: 75/96
+2016-08-03 17:48:09,947 - model - DEBUG - Step: 76/96
+2016-08-03 17:48:10,232 - model - DEBUG - Step: 77/96
+2016-08-03 17:48:10,536 - model - DEBUG - Step: 78/96
+2016-08-03 17:48:10,801 - model - DEBUG - Step: 79/96
+2016-08-03 17:48:11,091 - model - DEBUG - Step: 80/96
+2016-08-03 17:48:11,380 - model - DEBUG - Step: 81/96
+2016-08-03 17:48:11,680 - model - DEBUG - Step: 82/96
+2016-08-03 17:48:11,947 - model - DEBUG - Step: 83/96
+2016-08-03 17:48:12,230 - model - DEBUG - Step: 84/96
+2016-08-03 17:48:12,519 - model - DEBUG - Step: 85/96
+2016-08-03 17:48:12,813 - model - DEBUG - Step: 86/96
+2016-08-03 17:48:13,078 - model - DEBUG - Step: 87/96
+2016-08-03 17:48:13,354 - model - DEBUG - Step: 88/96
+2016-08-03 17:48:13,655 - model - DEBUG - Step: 89/96
+2016-08-03 17:48:13,948 - model - DEBUG - Step: 90/96
+2016-08-03 17:48:14,214 - model - DEBUG - Step: 91/96
+2016-08-03 17:48:14,561 - model - DEBUG - Step: 92/96
+2016-08-03 17:48:14,865 - model - DEBUG - Step: 93/96
+2016-08-03 17:48:15,161 - model - DEBUG - Step: 94/96
+2016-08-03 17:48:15,437 - model - DEBUG - Step: 95/96
+2016-08-03 17:48:15,717 - model - DEBUG - Step: 96/96
+2016-08-03 17:48:16,141 - model - INFO - Saving initial conditions...
+2016-08-03 17:48:16,157 - model - INFO - Saving initial conditions for FEWS...
+2016-08-03 17:48:40,354 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-03 17:48:40,355 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-03 17:48:40,355 - model - INFO - running for 96 timesteps
+2016-08-03 17:48:40,371 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-03 17:48:40,371 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-03 17:48:40,371 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-03 17:48:40,381 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-03 17:48:40,391 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-03 17:48:40,401 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-03 17:48:40,411 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-03 17:48:40,411 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-03 17:48:40,421 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-03 17:48:40,423 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-03 17:48:40,431 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-03 17:48:40,433 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-03 17:48:40,444 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-03 17:48:40,453 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-03 17:48:40,463 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-03 17:48:40,473 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-03 17:48:40,483 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-03 17:48:40,493 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-03 17:48:40,503 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-03 17:48:40,510 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-03 17:48:40,519 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-03 17:48:40,520 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-03 17:48:40,710 - model - INFO - Initializing of model variables..
+2016-08-03 17:48:40,803 - model - INFO - Create timeseries outputs...
+2016-08-03 17:48:40,803 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-03 17:48:40,805 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-03 17:48:40,808 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-03 17:48:40,809 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-03 17:48:40,871 - model - INFO - Saving summary maps...
+2016-08-03 17:48:40,891 - model - INFO - Starting Dynamic run...
+2016-08-03 17:48:40,891 - model - INFO - Setting initial conditions from state files
+2016-08-03 17:48:40,907 - model - DEBUG - Step: 1/96
+2016-08-03 17:48:41,150 - model - DEBUG - Step: 2/96
+2016-08-03 17:48:41,387 - model - DEBUG - Step: 3/96
+2016-08-03 17:48:41,622 - model - DEBUG - Step: 4/96
+2016-08-03 17:48:41,858 - model - DEBUG - Step: 5/96
+2016-08-03 17:48:42,092 - model - DEBUG - Step: 6/96
+2016-08-03 17:48:42,328 - model - DEBUG - Step: 7/96
+2016-08-03 17:48:42,566 - model - DEBUG - Step: 8/96
+2016-08-03 17:48:42,805 - model - DEBUG - Step: 9/96
+2016-08-03 17:48:43,046 - model - DEBUG - Step: 10/96
+2016-08-03 17:48:43,283 - model - DEBUG - Step: 11/96
+2016-08-03 17:48:43,520 - model - DEBUG - Step: 12/96
+2016-08-03 17:48:43,766 - model - DEBUG - Step: 13/96
+2016-08-03 17:48:44,003 - model - DEBUG - Step: 14/96
+2016-08-03 17:48:44,243 - model - DEBUG - Step: 15/96
+2016-08-03 17:48:44,480 - model - DEBUG - Step: 16/96
+2016-08-03 17:48:44,716 - model - DEBUG - Step: 17/96
+2016-08-03 17:48:44,951 - model - DEBUG - Step: 18/96
+2016-08-03 17:48:45,190 - model - DEBUG - Step: 19/96
+2016-08-03 17:48:45,426 - model - DEBUG - Step: 20/96
+2016-08-03 17:48:45,661 - model - DEBUG - Step: 21/96
+2016-08-03 17:48:45,924 - model - DEBUG - Step: 22/96
+2016-08-03 17:48:46,236 - model - DEBUG - Step: 23/96
+2016-08-03 17:48:46,509 - model - DEBUG - Step: 24/96
+2016-08-03 17:48:46,795 - model - DEBUG - Step: 25/96
+2016-08-03 17:48:47,081 - model - DEBUG - Step: 26/96
+2016-08-03 17:48:47,358 - model - DEBUG - Step: 27/96
+2016-08-03 17:48:47,630 - model - DEBUG - Step: 28/96
+2016-08-03 17:48:47,901 - model - DEBUG - Step: 29/96
+2016-08-03 17:48:48,170 - model - DEBUG - Step: 30/96
+2016-08-03 17:48:48,437 - model - DEBUG - Step: 31/96
+2016-08-03 17:48:48,703 - model - DEBUG - Step: 32/96
+2016-08-03 17:48:48,974 - model - DEBUG - Step: 33/96
+2016-08-03 17:48:49,252 - model - DEBUG - Step: 34/96
+2016-08-03 17:48:49,520 - model - DEBUG - Step: 35/96
+2016-08-03 17:48:49,789 - model - DEBUG - Step: 36/96
+2016-08-03 17:48:50,063 - model - DEBUG - Step: 37/96
+2016-08-03 17:48:50,334 - model - DEBUG - Step: 38/96
+2016-08-03 17:48:50,598 - model - DEBUG - Step: 39/96
+2016-08-03 17:48:50,858 - model - DEBUG - Step: 40/96
+2016-08-03 17:48:51,118 - model - DEBUG - Step: 41/96
+2016-08-03 17:48:51,380 - model - DEBUG - Step: 42/96
+2016-08-03 17:48:51,641 - model - DEBUG - Step: 43/96
+2016-08-03 17:48:51,901 - model - DEBUG - Step: 44/96
+2016-08-03 17:48:52,158 - model - DEBUG - Step: 45/96
+2016-08-03 17:48:52,417 - model - DEBUG - Step: 46/96
+2016-08-03 17:48:52,678 - model - DEBUG - Step: 47/96
+2016-08-03 17:48:52,938 - model - DEBUG - Step: 48/96
+2016-08-03 17:48:53,197 - model - DEBUG - Step: 49/96
+2016-08-03 17:48:53,466 - model - DEBUG - Step: 50/96
+2016-08-03 17:48:53,720 - model - DEBUG - Step: 51/96
+2016-08-03 17:48:53,983 - model - DEBUG - Step: 52/96
+2016-08-03 17:48:54,253 - model - DEBUG - Step: 53/96
+2016-08-03 17:48:54,523 - model - DEBUG - Step: 54/96
+2016-08-03 17:48:54,780 - model - DEBUG - Step: 55/96
+2016-08-03 17:48:55,043 - model - DEBUG - Step: 56/96
+2016-08-03 17:48:55,299 - model - DEBUG - Step: 57/96
+2016-08-03 17:48:55,553 - model - DEBUG - Step: 58/96
+2016-08-03 17:48:55,808 - model - DEBUG - Step: 59/96
+2016-08-03 17:48:56,065 - model - DEBUG - Step: 60/96
+2016-08-03 17:48:56,326 - model - DEBUG - Step: 61/96
+2016-08-03 17:48:56,588 - model - DEBUG - Step: 62/96
+2016-08-03 17:48:56,851 - model - DEBUG - Step: 63/96
+2016-08-03 17:48:57,108 - model - DEBUG - Step: 64/96
+2016-08-03 17:48:57,362 - model - DEBUG - Step: 65/96
+2016-08-03 17:48:57,621 - model - DEBUG - Step: 66/96
+2016-08-03 17:48:57,880 - model - DEBUG - Step: 67/96
+2016-08-03 17:48:58,138 - model - DEBUG - Step: 68/96
+2016-08-03 17:48:58,398 - model - DEBUG - Step: 69/96
+2016-08-03 17:48:58,660 - model - DEBUG - Step: 70/96
+2016-08-03 17:48:58,920 - model - DEBUG - Step: 71/96
+2016-08-03 17:48:59,187 - model - DEBUG - Step: 72/96
+2016-08-03 17:48:59,443 - model - DEBUG - Step: 73/96
+2016-08-03 17:48:59,697 - model - DEBUG - Step: 74/96
+2016-08-03 17:48:59,954 - model - DEBUG - Step: 75/96
+2016-08-03 17:49:00,211 - model - DEBUG - Step: 76/96
+2016-08-03 17:49:00,469 - model - DEBUG - Step: 77/96
+2016-08-03 17:49:00,724 - model - DEBUG - Step: 78/96
+2016-08-03 17:49:00,982 - model - DEBUG - Step: 79/96
+2016-08-03 17:49:01,236 - model - DEBUG - Step: 80/96
+2016-08-03 17:49:01,492 - model - DEBUG - Step: 81/96
+2016-08-03 17:49:01,747 - model - DEBUG - Step: 82/96
+2016-08-03 17:49:02,009 - model - DEBUG - Step: 83/96
+2016-08-03 17:49:02,272 - model - DEBUG - Step: 84/96
+2016-08-03 17:49:02,528 - model - DEBUG - Step: 85/96
+2016-08-03 17:49:02,785 - model - DEBUG - Step: 86/96
+2016-08-03 17:49:03,040 - model - DEBUG - Step: 87/96
+2016-08-03 17:49:03,299 - model - DEBUG - Step: 88/96
+2016-08-03 17:49:03,553 - model - DEBUG - Step: 89/96
+2016-08-03 17:49:03,812 - model - DEBUG - Step: 90/96
+2016-08-03 17:49:04,069 - model - DEBUG - Step: 91/96
+2016-08-03 17:49:04,326 - model - DEBUG - Step: 92/96
+2016-08-03 17:49:04,592 - model - DEBUG - Step: 93/96
+2016-08-03 17:49:04,861 - model - DEBUG - Step: 94/96
+2016-08-03 17:49:05,134 - model - DEBUG - Step: 95/96
+2016-08-03 17:49:05,400 - model - DEBUG - Step: 96/96
+2016-08-03 17:49:05,668 - model - INFO - Saving initial conditions...
+2016-08-03 17:49:05,674 - model - INFO - Saving initial conditions for FEWS...
+2016-08-03 17:53:43,415 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-03 17:53:43,415 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-03 17:53:43,417 - model - INFO - running for 96 timesteps
+2016-08-03 17:53:43,431 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-03 17:53:43,433 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-03 17:53:43,433 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-03 17:53:43,441 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-03 17:53:43,451 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-03 17:53:43,461 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-03 17:53:43,471 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-03 17:53:43,471 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-03 17:53:43,482 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-03 17:53:43,482 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-03 17:53:43,492 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-03 17:53:43,493 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-03 17:53:43,502 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-03 17:53:43,512 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-03 17:53:43,522 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-03 17:53:43,530 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-03 17:53:43,540 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-03 17:53:43,551 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-03 17:53:43,561 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-03 17:53:43,569 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-03 17:53:43,576 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-03 17:53:43,578 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-03 17:53:43,766 - model - INFO - Initializing of model variables..
+2016-08-03 17:53:43,855 - model - INFO - Create timeseries outputs...
+2016-08-03 17:53:43,855 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-03 17:53:43,858 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-03 17:53:43,859 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-03 17:53:43,861 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-03 17:53:43,921 - model - INFO - Saving summary maps...
+2016-08-03 17:53:43,941 - model - INFO - Starting Dynamic run...
+2016-08-03 17:53:43,943 - model - INFO - Setting initial conditions from state files
+2016-08-03 17:53:43,957 - model - DEBUG - Step: 1/96
+2016-08-03 17:53:44,194 - model - DEBUG - Step: 2/96
+2016-08-03 17:53:44,426 - model - DEBUG - Step: 3/96
+2016-08-03 17:53:44,660 - model - DEBUG - Step: 4/96
+2016-08-03 17:53:44,891 - model - DEBUG - Step: 5/96
+2016-08-03 17:53:45,125 - model - DEBUG - Step: 6/96
+2016-08-03 17:53:45,358 - model - DEBUG - Step: 7/96
+2016-08-03 17:53:45,592 - model - DEBUG - Step: 8/96
+2016-08-03 17:53:45,826 - model - DEBUG - Step: 9/96
+2016-08-03 17:53:46,059 - model - DEBUG - Step: 10/96
+2016-08-03 17:53:46,292 - model - DEBUG - Step: 11/96
+2016-08-03 17:53:46,528 - model - DEBUG - Step: 12/96
+2016-08-03 17:53:46,763 - model - DEBUG - Step: 13/96
+2016-08-03 17:53:46,997 - model - DEBUG - Step: 14/96
+2016-08-03 17:53:47,233 - model - DEBUG - Step: 15/96
+2016-08-03 17:53:47,469 - model - DEBUG - Step: 16/96
+2016-08-03 17:53:47,707 - model - DEBUG - Step: 17/96
+2016-08-03 17:53:47,943 - model - DEBUG - Step: 18/96
+2016-08-03 17:53:48,178 - model - DEBUG - Step: 19/96
+2016-08-03 17:53:48,415 - model - DEBUG - Step: 20/96
+2016-08-03 17:53:48,653 - model - DEBUG - Step: 21/96
+2016-08-03 17:53:48,914 - model - DEBUG - Step: 22/96
+2016-08-03 17:53:49,211 - model - DEBUG - Step: 23/96
+2016-08-03 17:53:49,482 - model - DEBUG - Step: 24/96
+2016-08-03 17:53:49,773 - model - DEBUG - Step: 25/96
+2016-08-03 17:53:50,040 - model - DEBUG - Step: 26/96
+2016-08-03 17:53:50,306 - model - DEBUG - Step: 27/96
+2016-08-03 17:53:50,573 - model - DEBUG - Step: 28/96
+2016-08-03 17:53:50,838 - model - DEBUG - Step: 29/96
+2016-08-03 17:53:51,105 - model - DEBUG - Step: 30/96
+2016-08-03 17:53:51,368 - model - DEBUG - Step: 31/96
+2016-08-03 17:53:51,637 - model - DEBUG - Step: 32/96
+2016-08-03 17:53:51,898 - model - DEBUG - Step: 33/96
+2016-08-03 17:53:52,161 - model - DEBUG - Step: 34/96
+2016-08-03 17:53:52,421 - model - DEBUG - Step: 35/96
+2016-08-03 17:53:52,683 - model - DEBUG - Step: 36/96
+2016-08-03 17:53:52,941 - model - DEBUG - Step: 37/96
+2016-08-03 17:53:53,201 - model - DEBUG - Step: 38/96
+2016-08-03 17:53:53,463 - model - DEBUG - Step: 39/96
+2016-08-03 17:53:53,721 - model - DEBUG - Step: 40/96
+2016-08-03 17:53:53,980 - model - DEBUG - Step: 41/96
+2016-08-03 17:53:54,240 - model - DEBUG - Step: 42/96
+2016-08-03 17:53:54,499 - model - DEBUG - Step: 43/96
+2016-08-03 17:53:54,759 - model - DEBUG - Step: 44/96
+2016-08-03 17:53:55,016 - model - DEBUG - Step: 45/96
+2016-08-03 17:53:55,269 - model - DEBUG - Step: 46/96
+2016-08-03 17:53:55,523 - model - DEBUG - Step: 47/96
+2016-08-03 17:53:55,779 - model - DEBUG - Step: 48/96
+2016-08-03 17:53:56,049 - model - DEBUG - Step: 49/96
+2016-08-03 17:53:56,306 - model - DEBUG - Step: 50/96
+2016-08-03 17:53:56,572 - model - DEBUG - Step: 51/96
+2016-08-03 17:53:56,835 - model - DEBUG - Step: 52/96
+2016-08-03 17:53:57,101 - model - DEBUG - Step: 53/96
+2016-08-03 17:53:57,355 - model - DEBUG - Step: 54/96
+2016-08-03 17:53:57,617 - model - DEBUG - Step: 55/96
+2016-08-03 17:53:57,869 - model - DEBUG - Step: 56/96
+2016-08-03 17:53:58,121 - model - DEBUG - Step: 57/96
+2016-08-03 17:53:58,375 - model - DEBUG - Step: 58/96
+2016-08-03 17:53:58,628 - model - DEBUG - Step: 59/96
+2016-08-03 17:53:58,884 - model - DEBUG - Step: 60/96
+2016-08-03 17:53:59,150 - model - DEBUG - Step: 61/96
+2016-08-03 17:53:59,403 - model - DEBUG - Step: 62/96
+2016-08-03 17:53:59,657 - model - DEBUG - Step: 63/96
+2016-08-03 17:53:59,911 - model - DEBUG - Step: 64/96
+2016-08-03 17:54:00,164 - model - DEBUG - Step: 65/96
+2016-08-03 17:54:00,420 - model - DEBUG - Step: 66/96
+2016-08-03 17:54:00,680 - model - DEBUG - Step: 67/96
+2016-08-03 17:54:00,936 - model - DEBUG - Step: 68/96
+2016-08-03 17:54:01,197 - model - DEBUG - Step: 69/96
+2016-08-03 17:54:01,454 - model - DEBUG - Step: 70/96
+2016-08-03 17:54:01,719 - model - DEBUG - Step: 71/96
+2016-08-03 17:54:01,990 - model - DEBUG - Step: 72/96
+2016-08-03 17:54:02,252 - model - DEBUG - Step: 73/96
+2016-08-03 17:54:02,529 - model - DEBUG - Step: 74/96
+2016-08-03 17:54:02,813 - model - DEBUG - Step: 75/96
+2016-08-03 17:54:03,076 - model - DEBUG - Step: 76/96
+2016-08-03 17:54:03,336 - model - DEBUG - Step: 77/96
+2016-08-03 17:54:03,601 - model - DEBUG - Step: 78/96
+2016-08-03 17:54:03,885 - model - DEBUG - Step: 79/96
+2016-08-03 17:54:04,151 - model - DEBUG - Step: 80/96
+2016-08-03 17:54:04,414 - model - DEBUG - Step: 81/96
+2016-08-03 17:54:04,680 - model - DEBUG - Step: 82/96
+2016-08-03 17:54:04,938 - model - DEBUG - Step: 83/96
+2016-08-03 17:54:05,198 - model - DEBUG - Step: 84/96
+2016-08-03 17:54:05,477 - model - DEBUG - Step: 85/96
+2016-08-03 17:54:05,740 - model - DEBUG - Step: 86/96
+2016-08-03 17:54:06,012 - model - DEBUG - Step: 87/96
+2016-08-03 17:54:06,276 - model - DEBUG - Step: 88/96
+2016-08-03 17:54:06,540 - model - DEBUG - Step: 89/96
+2016-08-03 17:54:06,805 - model - DEBUG - Step: 90/96
+2016-08-03 17:54:07,072 - model - DEBUG - Step: 91/96
+2016-08-03 17:54:07,338 - model - DEBUG - Step: 92/96
+2016-08-03 17:54:07,611 - model - DEBUG - Step: 93/96
+2016-08-03 17:54:07,881 - model - DEBUG - Step: 94/96
+2016-08-03 17:54:08,151 - model - DEBUG - Step: 95/96
+2016-08-03 17:54:08,415 - model - DEBUG - Step: 96/96
+2016-08-03 17:54:08,680 - model - INFO - Saving initial conditions...
+2016-08-03 17:54:08,687 - model - INFO - Saving initial conditions for FEWS...
+2016-08-03 17:55:53,142 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-03 17:55:53,144 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-03 17:55:53,144 - model - INFO - running for 96 timesteps
+2016-08-03 17:55:53,158 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-03 17:55:53,160 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-03 17:55:53,160 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-03 17:55:53,168 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-03 17:55:53,180 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-03 17:55:53,190 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-03 17:55:53,200 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-03 17:55:53,201 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-03 17:55:53,210 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-03 17:55:53,211 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-03 17:55:53,221 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-03 17:55:53,223 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-03 17:55:53,233 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-03 17:55:53,242 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-03 17:55:53,253 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-03 17:55:53,262 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-03 17:55:53,272 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-03 17:55:53,282 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-03 17:55:53,292 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-03 17:55:53,301 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-03 17:55:53,309 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-03 17:55:53,309 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-03 17:55:53,503 - model - INFO - Initializing of model variables..
+2016-08-03 17:55:53,592 - model - INFO - Create timeseries outputs...
+2016-08-03 17:55:53,592 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-03 17:55:53,595 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-03 17:55:53,595 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-03 17:55:53,598 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-03 17:55:53,667 - model - INFO - Saving summary maps...
+2016-08-03 17:55:53,687 - model - INFO - Starting Dynamic run...
+2016-08-03 17:55:53,687 - model - INFO - Setting initial conditions from state files
+2016-08-03 17:55:53,701 - model - DEBUG - Step: 1/96
+2016-08-03 17:55:53,941 - model - DEBUG - Step: 2/96
+2016-08-03 17:55:54,180 - model - DEBUG - Step: 3/96
+2016-08-03 17:55:54,415 - model - DEBUG - Step: 4/96
+2016-08-03 17:55:54,654 - model - DEBUG - Step: 5/96
+2016-08-03 17:55:54,888 - model - DEBUG - Step: 6/96
+2016-08-03 17:55:55,124 - model - DEBUG - Step: 7/96
+2016-08-03 17:55:55,361 - model - DEBUG - Step: 8/96
+2016-08-03 17:55:55,599 - model - DEBUG - Step: 9/96
+2016-08-03 17:55:55,835 - model - DEBUG - Step: 10/96
+2016-08-03 17:55:56,071 - model - DEBUG - Step: 11/96
+2016-08-03 17:55:56,305 - model - DEBUG - Step: 12/96
+2016-08-03 17:55:56,542 - model - DEBUG - Step: 13/96
+2016-08-03 17:55:56,782 - model - DEBUG - Step: 14/96
+2016-08-03 17:55:57,019 - model - DEBUG - Step: 15/96
+2016-08-03 17:55:57,269 - model - DEBUG - Step: 16/96
+2016-08-03 17:55:57,506 - model - DEBUG - Step: 17/96
+2016-08-03 17:55:57,743 - model - DEBUG - Step: 18/96
+2016-08-03 17:55:57,983 - model - DEBUG - Step: 19/96
+2016-08-03 17:55:58,217 - model - DEBUG - Step: 20/96
+2016-08-03 17:55:58,464 - model - DEBUG - Step: 21/96
+2016-08-03 17:55:58,729 - model - DEBUG - Step: 22/96
+2016-08-03 17:55:59,061 - model - DEBUG - Step: 23/96
+2016-08-03 17:55:59,345 - model - DEBUG - Step: 24/96
+2016-08-03 17:55:59,651 - model - DEBUG - Step: 25/96
+2016-08-03 17:55:59,928 - model - DEBUG - Step: 26/96
+2016-08-03 17:56:00,197 - model - DEBUG - Step: 27/96
+2016-08-03 17:56:00,467 - model - DEBUG - Step: 28/96
+2016-08-03 17:56:00,755 - model - DEBUG - Step: 29/96
+2016-08-03 17:56:01,039 - model - DEBUG - Step: 30/96
+2016-08-03 17:56:01,312 - model - DEBUG - Step: 31/96
+2016-08-03 17:56:01,589 - model - DEBUG - Step: 32/96
+2016-08-03 17:56:01,862 - model - DEBUG - Step: 33/96
+2016-08-03 17:56:02,138 - model - DEBUG - Step: 34/96
+2016-08-03 17:56:02,404 - model - DEBUG - Step: 35/96
+2016-08-03 17:56:02,671 - model - DEBUG - Step: 36/96
+2016-08-03 17:56:02,940 - model - DEBUG - Step: 37/96
+2016-08-03 17:56:03,203 - model - DEBUG - Step: 38/96
+2016-08-03 17:56:03,467 - model - DEBUG - Step: 39/96
+2016-08-03 17:56:03,726 - model - DEBUG - Step: 40/96
+2016-08-03 17:56:03,986 - model - DEBUG - Step: 41/96
+2016-08-03 17:56:04,246 - model - DEBUG - Step: 42/96
+2016-08-03 17:56:04,506 - model - DEBUG - Step: 43/96
+2016-08-03 17:56:04,766 - model - DEBUG - Step: 44/96
+2016-08-03 17:56:05,025 - model - DEBUG - Step: 45/96
+2016-08-03 17:56:05,290 - model - DEBUG - Step: 46/96
+2016-08-03 17:56:05,571 - model - DEBUG - Step: 47/96
+2016-08-03 17:56:05,832 - model - DEBUG - Step: 48/96
+2016-08-03 17:56:06,102 - model - DEBUG - Step: 49/96
+2016-08-03 17:56:06,364 - model - DEBUG - Step: 50/96
+2016-08-03 17:56:06,641 - model - DEBUG - Step: 51/96
+2016-08-03 17:56:06,921 - model - DEBUG - Step: 52/96
+2016-08-03 17:56:07,190 - model - DEBUG - Step: 53/96
+2016-08-03 17:56:07,450 - model - DEBUG - Step: 54/96
+2016-08-03 17:56:07,717 - model - DEBUG - Step: 55/96
+2016-08-03 17:56:07,970 - model - DEBUG - Step: 56/96
+2016-08-03 17:56:08,223 - model - DEBUG - Step: 57/96
+2016-08-03 17:56:08,482 - model - DEBUG - Step: 58/96
+2016-08-03 17:56:08,756 - model - DEBUG - Step: 59/96
+2016-08-03 17:56:09,020 - model - DEBUG - Step: 60/96
+2016-08-03 17:56:09,275 - model - DEBUG - Step: 61/96
+2016-08-03 17:56:09,532 - model - DEBUG - Step: 62/96
+2016-08-03 17:56:09,809 - model - DEBUG - Step: 63/96
+2016-08-03 17:56:10,072 - model - DEBUG - Step: 64/96
+2016-08-03 17:56:10,329 - model - DEBUG - Step: 65/96
+2016-08-03 17:56:10,588 - model - DEBUG - Step: 66/96
+2016-08-03 17:56:10,844 - model - DEBUG - Step: 67/96
+2016-08-03 17:56:11,099 - model - DEBUG - Step: 68/96
+2016-08-03 17:56:11,358 - model - DEBUG - Step: 69/96
+2016-08-03 17:56:11,638 - model - DEBUG - Step: 70/96
+2016-08-03 17:56:11,914 - model - DEBUG - Step: 71/96
+2016-08-03 17:56:12,181 - model - DEBUG - Step: 72/96
+2016-08-03 17:56:12,457 - model - DEBUG - Step: 73/96
+2016-08-03 17:56:12,727 - model - DEBUG - Step: 74/96
+2016-08-03 17:56:12,986 - model - DEBUG - Step: 75/96
+2016-08-03 17:56:13,244 - model - DEBUG - Step: 76/96
+2016-08-03 17:56:13,505 - model - DEBUG - Step: 77/96
+2016-08-03 17:56:13,767 - model - DEBUG - Step: 78/96
+2016-08-03 17:56:14,030 - model - DEBUG - Step: 79/96
+2016-08-03 17:56:14,292 - model - DEBUG - Step: 80/96
+2016-08-03 17:56:14,556 - model - DEBUG - Step: 81/96
+2016-08-03 17:56:14,832 - model - DEBUG - Step: 82/96
+2016-08-03 17:56:15,108 - model - DEBUG - Step: 83/96
+2016-08-03 17:56:15,371 - model - DEBUG - Step: 84/96
+2016-08-03 17:56:15,645 - model - DEBUG - Step: 85/96
+2016-08-03 17:56:15,917 - model - DEBUG - Step: 86/96
+2016-08-03 17:56:16,183 - model - DEBUG - Step: 87/96
+2016-08-03 17:56:16,453 - model - DEBUG - Step: 88/96
+2016-08-03 17:56:16,719 - model - DEBUG - Step: 89/96
+2016-08-03 17:56:16,994 - model - DEBUG - Step: 90/96
+2016-08-03 17:56:17,279 - model - DEBUG - Step: 91/96
+2016-08-03 17:56:17,540 - model - DEBUG - Step: 92/96
+2016-08-03 17:56:17,812 - model - DEBUG - Step: 93/96
+2016-08-03 17:56:18,081 - model - DEBUG - Step: 94/96
+2016-08-03 17:56:18,348 - model - DEBUG - Step: 95/96
+2016-08-03 17:56:18,615 - model - DEBUG - Step: 96/96
+2016-08-03 17:56:18,880 - model - INFO - Saving initial conditions...
+2016-08-03 17:56:18,885 - model - INFO - Saving initial conditions for FEWS...
+2016-08-03 17:57:45,677 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-03 17:57:45,677 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-03 17:57:45,677 - model - INFO - running for 96 timesteps
+2016-08-03 17:57:45,694 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-03 17:57:45,694 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-03 17:57:45,694 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-03 17:57:45,703 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-03 17:57:45,713 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-03 17:57:45,723 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-03 17:57:45,733 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-03 17:57:45,733 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-03 17:57:45,743 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-03 17:57:45,744 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-03 17:57:45,755 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-03 17:57:45,756 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-03 17:57:45,766 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-03 17:57:45,775 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-03 17:57:45,785 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-03 17:57:45,795 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-03 17:57:45,803 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-03 17:57:45,813 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-03 17:57:45,823 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-03 17:57:45,832 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-03 17:57:45,838 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-03 17:57:45,839 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-03 17:57:46,028 - model - INFO - Initializing of model variables..
+2016-08-03 17:57:46,119 - model - INFO - Create timeseries outputs...
+2016-08-03 17:57:46,119 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-03 17:57:46,122 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-03 17:57:46,125 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-03 17:57:46,127 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-03 17:57:46,187 - model - INFO - Saving summary maps...
+2016-08-03 17:57:46,207 - model - INFO - Starting Dynamic run...
+2016-08-03 17:57:46,207 - model - INFO - Setting initial conditions from state files
+2016-08-03 17:57:46,223 - model - DEBUG - Step: 1/96
+2016-08-03 17:57:46,484 - model - DEBUG - Step: 2/96
+2016-08-03 17:57:46,743 - model - DEBUG - Step: 3/96
+2016-08-03 17:57:47,002 - model - DEBUG - Step: 4/96
+2016-08-03 17:57:47,260 - model - DEBUG - Step: 5/96
+2016-08-03 17:57:47,522 - model - DEBUG - Step: 6/96
+2016-08-03 17:57:47,782 - model - DEBUG - Step: 7/96
+2016-08-03 17:57:48,045 - model - DEBUG - Step: 8/96
+2016-08-03 17:57:48,309 - model - DEBUG - Step: 9/96
+2016-08-03 17:57:48,572 - model - DEBUG - Step: 10/96
+2016-08-03 17:57:48,836 - model - DEBUG - Step: 11/96
+2016-08-03 17:57:49,099 - model - DEBUG - Step: 12/96
+2016-08-03 17:57:49,365 - model - DEBUG - Step: 13/96
+2016-08-03 17:57:49,625 - model - DEBUG - Step: 14/96
+2016-08-03 17:57:49,887 - model - DEBUG - Step: 15/96
+2016-08-03 17:57:50,148 - model - DEBUG - Step: 16/96
+2016-08-03 17:57:50,411 - model - DEBUG - Step: 17/96
+2016-08-03 17:57:50,674 - model - DEBUG - Step: 18/96
+2016-08-03 17:57:50,940 - model - DEBUG - Step: 19/96
+2016-08-03 17:57:51,204 - model - DEBUG - Step: 20/96
+2016-08-03 17:57:51,469 - model - DEBUG - Step: 21/96
+2016-08-03 17:57:51,744 - model - DEBUG - Step: 22/96
+2016-08-03 17:57:52,025 - model - DEBUG - Step: 23/96
+2016-08-03 17:57:52,302 - model - DEBUG - Step: 24/96
+2016-08-03 17:57:52,578 - model - DEBUG - Step: 25/96
+2016-08-03 17:57:52,849 - model - DEBUG - Step: 26/96
+2016-08-03 17:57:53,115 - model - DEBUG - Step: 27/96
+2016-08-03 17:57:53,385 - model - DEBUG - Step: 28/96
+2016-08-03 17:57:53,657 - model - DEBUG - Step: 29/96
+2016-08-03 17:57:53,926 - model - DEBUG - Step: 30/96
+2016-08-03 17:57:54,194 - model - DEBUG - Step: 31/96
+2016-08-03 17:57:54,460 - model - DEBUG - Step: 32/96
+2016-08-03 17:57:54,724 - model - DEBUG - Step: 33/96
+2016-08-03 17:57:54,996 - model - DEBUG - Step: 34/96
+2016-08-03 17:57:55,269 - model - DEBUG - Step: 35/96
+2016-08-03 17:57:55,536 - model - DEBUG - Step: 36/96
+2016-08-03 17:57:55,803 - model - DEBUG - Step: 37/96
+2016-08-03 17:57:56,068 - model - DEBUG - Step: 38/96
+2016-08-03 17:57:56,335 - model - DEBUG - Step: 39/96
+2016-08-03 17:57:56,604 - model - DEBUG - Step: 40/96
+2016-08-03 17:57:56,865 - model - DEBUG - Step: 41/96
+2016-08-03 17:57:57,132 - model - DEBUG - Step: 42/96
+2016-08-03 17:57:57,388 - model - DEBUG - Step: 43/96
+2016-08-03 17:57:57,640 - model - DEBUG - Step: 44/96
+2016-08-03 17:57:57,894 - model - DEBUG - Step: 45/96
+2016-08-03 17:57:58,145 - model - DEBUG - Step: 46/96
+2016-08-03 17:57:58,398 - model - DEBUG - Step: 47/96
+2016-08-03 17:57:58,653 - model - DEBUG - Step: 48/96
+2016-08-03 17:57:58,913 - model - DEBUG - Step: 49/96
+2016-08-03 17:57:59,176 - model - DEBUG - Step: 50/96
+2016-08-03 17:57:59,437 - model - DEBUG - Step: 51/96
+2016-08-03 17:57:59,697 - model - DEBUG - Step: 52/96
+2016-08-03 17:57:59,967 - model - DEBUG - Step: 53/96
+2016-08-03 17:58:00,216 - model - DEBUG - Step: 54/96
+2016-08-03 17:58:00,473 - model - DEBUG - Step: 55/96
+2016-08-03 17:58:00,734 - model - DEBUG - Step: 56/96
+2016-08-03 17:58:00,986 - model - DEBUG - Step: 57/96
+2016-08-03 17:58:01,239 - model - DEBUG - Step: 58/96
+2016-08-03 17:58:01,490 - model - DEBUG - Step: 59/96
+2016-08-03 17:58:01,743 - model - DEBUG - Step: 60/96
+2016-08-03 17:58:02,000 - model - DEBUG - Step: 61/96
+2016-08-03 17:58:02,255 - model - DEBUG - Step: 62/96
+2016-08-03 17:58:02,512 - model - DEBUG - Step: 63/96
+2016-08-03 17:58:02,769 - model - DEBUG - Step: 64/96
+2016-08-03 17:58:03,032 - model - DEBUG - Step: 65/96
+2016-08-03 17:58:03,292 - model - DEBUG - Step: 66/96
+2016-08-03 17:58:03,549 - model - DEBUG - Step: 67/96
+2016-08-03 17:58:03,809 - model - DEBUG - Step: 68/96
+2016-08-03 17:58:04,068 - model - DEBUG - Step: 69/96
+2016-08-03 17:58:04,332 - model - DEBUG - Step: 70/96
+2016-08-03 17:58:04,594 - model - DEBUG - Step: 71/96
+2016-08-03 17:58:04,852 - model - DEBUG - Step: 72/96
+2016-08-03 17:58:05,114 - model - DEBUG - Step: 73/96
+2016-08-03 17:58:05,374 - model - DEBUG - Step: 74/96
+2016-08-03 17:58:05,637 - model - DEBUG - Step: 75/96
+2016-08-03 17:58:05,904 - model - DEBUG - Step: 76/96
+2016-08-03 17:58:06,171 - model - DEBUG - Step: 77/96
+2016-08-03 17:58:06,437 - model - DEBUG - Step: 78/96
+2016-08-03 17:58:06,706 - model - DEBUG - Step: 79/96
+2016-08-03 17:58:06,969 - model - DEBUG - Step: 80/96
+2016-08-03 17:58:07,234 - model - DEBUG - Step: 81/96
+2016-08-03 17:58:07,497 - model - DEBUG - Step: 82/96
+2016-08-03 17:58:07,762 - model - DEBUG - Step: 83/96
+2016-08-03 17:58:08,026 - model - DEBUG - Step: 84/96
+2016-08-03 17:58:08,296 - model - DEBUG - Step: 85/96
+2016-08-03 17:58:08,563 - model - DEBUG - Step: 86/96
+2016-08-03 17:58:08,832 - model - DEBUG - Step: 87/96
+2016-08-03 17:58:09,099 - model - DEBUG - Step: 88/96
+2016-08-03 17:58:09,365 - model - DEBUG - Step: 89/96
+2016-08-03 17:58:09,631 - model - DEBUG - Step: 90/96
+2016-08-03 17:58:09,901 - model - DEBUG - Step: 91/96
+2016-08-03 17:58:10,173 - model - DEBUG - Step: 92/96
+2016-08-03 17:58:10,444 - model - DEBUG - Step: 93/96
+2016-08-03 17:58:10,704 - model - DEBUG - Step: 94/96
+2016-08-03 17:58:10,970 - model - DEBUG - Step: 95/96
+2016-08-03 17:58:11,237 - model - DEBUG - Step: 96/96
+2016-08-03 17:58:11,509 - model - INFO - Saving initial conditions...
+2016-08-03 17:58:11,516 - model - INFO - Saving initial conditions for FEWS...
+2016-08-03 20:39:41,851 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-03 20:39:41,858 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-03 20:39:41,859 - model - INFO - running for 96 timesteps
+2016-08-03 20:39:41,957 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-03 20:39:41,957 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-03 20:39:41,957 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-03 20:39:41,967 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-03 20:39:41,976 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-03 20:39:41,986 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-03 20:39:41,996 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-03 20:39:41,997 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-03 20:39:42,007 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-03 20:39:42,009 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-03 20:39:42,019 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-03 20:39:42,019 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-03 20:39:42,029 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-03 20:39:42,039 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-03 20:39:42,049 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-03 20:39:42,059 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-03 20:39:42,069 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-03 20:39:42,078 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-03 20:39:42,088 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-03 20:39:42,096 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-03 20:39:42,121 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-03 20:39:42,122 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-03 20:39:42,365 - model - INFO - Initializing of model variables..
+2016-08-03 20:39:42,476 - model - INFO - Create timeseries outputs...
+2016-08-03 20:39:42,476 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-03 20:39:42,479 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-03 20:39:42,480 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-03 20:39:42,482 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-03 20:39:42,542 - model - INFO - Saving summary maps...
+2016-08-03 20:39:42,563 - model - INFO - Starting Dynamic run...
+2016-08-03 20:39:42,565 - model - INFO - Setting initial conditions from state files
+2016-08-03 20:40:47,051 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-03 20:40:47,052 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-03 20:40:47,052 - model - INFO - running for 96 timesteps
+2016-08-03 20:40:47,069 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-03 20:40:47,069 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-03 20:40:47,069 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-03 20:40:47,078 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-03 20:40:47,088 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-03 20:40:47,098 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-03 20:40:47,108 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-03 20:40:47,108 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-03 20:40:47,118 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-03 20:40:47,118 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-03 20:40:47,128 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-03 20:40:47,130 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-03 20:40:47,140 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-03 20:40:47,148 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-03 20:40:47,160 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-03 20:40:47,170 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-03 20:40:47,180 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-03 20:40:47,190 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-03 20:40:47,200 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-03 20:40:47,207 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-03 20:40:47,216 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-03 20:40:47,217 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-03 20:40:47,407 - model - INFO - Initializing of model variables..
+2016-08-03 20:40:47,496 - model - INFO - Create timeseries outputs...
+2016-08-03 20:40:47,496 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-03 20:40:47,499 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-03 20:40:47,500 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-03 20:40:47,502 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-03 20:40:47,562 - model - INFO - Saving summary maps...
+2016-08-03 20:40:47,582 - model - INFO - Starting Dynamic run...
+2016-08-03 20:40:47,584 - model - INFO - Setting initial conditions from state files
+2016-08-03 20:40:47,598 - model - DEBUG - Step: 1/96
+2016-08-03 20:40:47,921 - model - DEBUG - Step: 2/96
+2016-08-03 20:40:48,160 - model - DEBUG - Step: 3/96
+2016-08-03 20:40:48,417 - model - DEBUG - Step: 4/96
+2016-08-03 20:40:48,657 - model - DEBUG - Step: 5/96
+2016-08-03 20:40:48,898 - model - DEBUG - Step: 6/96
+2016-08-03 20:40:49,137 - model - DEBUG - Step: 7/96
+2016-08-03 20:40:49,401 - model - DEBUG - Step: 8/96
+2016-08-03 20:40:49,635 - model - DEBUG - Step: 9/96
+2016-08-03 20:40:49,900 - model - DEBUG - Step: 10/96
+2016-08-03 20:40:50,151 - model - DEBUG - Step: 11/96
+2016-08-03 20:40:50,388 - model - DEBUG - Step: 12/96
+2016-08-03 20:40:50,625 - model - DEBUG - Step: 13/96
+2016-08-03 20:40:50,888 - model - DEBUG - Step: 14/96
+2016-08-03 20:40:51,137 - model - DEBUG - Step: 15/96
+2016-08-03 20:40:51,374 - model - DEBUG - Step: 16/96
+2016-08-03 20:40:51,608 - model - DEBUG - Step: 17/96
+2016-08-03 20:40:51,884 - model - DEBUG - Step: 18/96
+2016-08-03 20:40:52,128 - model - DEBUG - Step: 19/96
+2016-08-03 20:40:52,368 - model - DEBUG - Step: 20/96
+2016-08-03 20:40:52,611 - model - DEBUG - Step: 21/96
+2016-08-03 20:40:52,956 - model - DEBUG - Step: 22/96
+2016-08-03 20:40:53,260 - model - DEBUG - Step: 23/96
+2016-08-03 20:40:53,539 - model - DEBUG - Step: 24/96
+2016-08-03 20:40:53,844 - model - DEBUG - Step: 25/96
+2016-08-03 20:40:54,147 - model - DEBUG - Step: 26/96
+2016-08-03 20:40:54,424 - model - DEBUG - Step: 27/96
+2016-08-03 20:40:54,730 - model - DEBUG - Step: 28/96
+2016-08-03 20:40:55,032 - model - DEBUG - Step: 29/96
+2016-08-03 20:40:55,367 - model - DEBUG - Step: 30/96
+2016-08-03 20:40:55,634 - model - DEBUG - Step: 31/96
+2016-08-03 20:40:55,908 - model - DEBUG - Step: 32/96
+2016-08-03 20:40:56,233 - model - DEBUG - Step: 33/96
+2016-08-03 20:40:56,532 - model - DEBUG - Step: 34/96
+2016-08-03 20:40:56,799 - model - DEBUG - Step: 35/96
+2016-08-03 20:40:57,068 - model - DEBUG - Step: 36/96
+2016-08-03 20:40:57,371 - model - DEBUG - Step: 37/96
+2016-08-03 20:40:57,667 - model - DEBUG - Step: 38/96
+2016-08-03 20:40:57,928 - model - DEBUG - Step: 39/96
+2016-08-03 20:40:58,236 - model - DEBUG - Step: 40/96
+2016-08-03 20:40:58,503 - model - DEBUG - Step: 41/96
+2016-08-03 20:40:58,769 - model - DEBUG - Step: 42/96
+2016-08-03 20:40:59,035 - model - DEBUG - Step: 43/96
+2016-08-03 20:40:59,329 - model - DEBUG - Step: 44/96
+2016-08-03 20:40:59,594 - model - DEBUG - Step: 45/96
+2016-08-03 20:40:59,855 - model - DEBUG - Step: 46/96
+2016-08-03 20:41:00,148 - model - DEBUG - Step: 47/96
+2016-08-03 20:41:00,414 - model - DEBUG - Step: 48/96
+2016-08-03 20:41:00,700 - model - DEBUG - Step: 49/96
+2016-08-03 20:41:01,023 - model - DEBUG - Step: 50/96
+2016-08-03 20:41:01,319 - model - DEBUG - Step: 51/96
+2016-08-03 20:41:01,607 - model - DEBUG - Step: 52/96
+2016-08-03 20:41:01,882 - model - DEBUG - Step: 53/96
+2016-08-03 20:41:02,200 - model - DEBUG - Step: 54/96
+2016-08-03 20:41:02,476 - model - DEBUG - Step: 55/96
+2016-08-03 20:41:02,753 - model - DEBUG - Step: 56/96
+2016-08-03 20:41:03,049 - model - DEBUG - Step: 57/96
+2016-08-03 20:41:03,334 - model - DEBUG - Step: 58/96
+2016-08-03 20:41:03,592 - model - DEBUG - Step: 59/96
+2016-08-03 20:41:03,875 - model - DEBUG - Step: 60/96
+2016-08-03 20:41:04,145 - model - DEBUG - Step: 61/96
+2016-08-03 20:41:04,434 - model - DEBUG - Step: 62/96
+2016-08-03 20:41:04,697 - model - DEBUG - Step: 63/96
+2016-08-03 20:41:05,005 - model - DEBUG - Step: 64/96
+2016-08-03 20:41:05,335 - model - DEBUG - Step: 65/96
+2016-08-03 20:41:05,611 - model - DEBUG - Step: 66/96
+2016-08-03 20:41:05,907 - model - DEBUG - Step: 67/96
+2016-08-03 20:41:06,180 - model - DEBUG - Step: 68/96
+2016-08-03 20:41:06,466 - model - DEBUG - Step: 69/96
+2016-08-03 20:41:06,756 - model - DEBUG - Step: 70/96
+2016-08-03 20:41:07,025 - model - DEBUG - Step: 71/96
+2016-08-03 20:41:07,286 - model - DEBUG - Step: 72/96
+2016-08-03 20:41:07,569 - model - DEBUG - Step: 73/96
+2016-08-03 20:41:07,924 - model - DEBUG - Step: 74/96
+2016-08-03 20:41:08,217 - model - DEBUG - Step: 75/96
+2016-08-03 20:41:08,492 - model - DEBUG - Step: 76/96
+2016-08-03 20:41:08,766 - model - DEBUG - Step: 77/96
+2016-08-03 20:41:09,078 - model - DEBUG - Step: 78/96
+2016-08-03 20:41:09,342 - model - DEBUG - Step: 79/96
+2016-08-03 20:41:09,601 - model - DEBUG - Step: 80/96
+2016-08-03 20:41:09,897 - model - DEBUG - Step: 81/96
+2016-08-03 20:41:10,200 - model - DEBUG - Step: 82/96
+2016-08-03 20:41:10,460 - model - DEBUG - Step: 83/96
+2016-08-03 20:41:10,720 - model - DEBUG - Step: 84/96
+2016-08-03 20:41:11,006 - model - DEBUG - Step: 85/96
+2016-08-03 20:41:11,290 - model - DEBUG - Step: 86/96
+2016-08-03 20:41:11,575 - model - DEBUG - Step: 87/96
+2016-08-03 20:41:11,895 - model - DEBUG - Step: 88/96
+2016-08-03 20:41:12,155 - model - DEBUG - Step: 89/96
+2016-08-03 20:41:12,413 - model - DEBUG - Step: 90/96
+2016-08-03 20:41:12,701 - model - DEBUG - Step: 91/96
+2016-08-03 20:41:12,980 - model - DEBUG - Step: 92/96
+2016-08-03 20:41:13,255 - model - DEBUG - Step: 93/96
+2016-08-03 20:41:13,556 - model - DEBUG - Step: 94/96
+2016-08-03 20:41:13,839 - model - DEBUG - Step: 95/96
+2016-08-03 20:41:14,128 - model - DEBUG - Step: 96/96
+2016-08-03 20:41:14,395 - model - INFO - Saving initial conditions...
+2016-08-03 20:41:14,401 - model - INFO - Saving initial conditions for FEWS...
+2016-08-09 10:34:42,740 - model - DEBUG - File logging to shihmen/run_default/wflow.log
+2016-08-09 10:34:42,750 - model - INFO - model no version Case: shihmen Runid: run_default
+2016-08-09 10:34:42,750 - model - INFO - running for 96 timesteps
+2016-08-09 10:34:42,836 - model - INFO - Linking parameters to landuse, catchment and soil...
+2016-08-09 10:34:42,836 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingGWPerc.tbl) returning default value: 0.1
+2016-08-09 10:34:42,836 - model - WARNING - tbl file not found (shihmen//intbl/RunoffGeneratingThickness.tbl) returning default value: 0.0
+2016-08-09 10:34:42,846 - model - INFO - Creating map from table: shihmen//intbl/MaxCanopyStorage.tbl
+2016-08-09 10:34:42,855 - model - INFO - Creating map from table: shihmen//intbl/EoverR.tbl
+2016-08-09 10:34:42,865 - model - INFO - Creating map from table: shihmen//intbl/CanopyGapFraction.tbl
+2016-08-09 10:34:42,875 - model - INFO - Creating map from table: shihmen//intbl/RootingDepth.tbl
+2016-08-09 10:34:42,875 - model - WARNING - tbl file not found (shihmen//intbl/rootdistpar.tbl) returning default value: -80000.0
+2016-08-09 10:34:42,885 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapSoil.tbl
+2016-08-09 10:34:42,885 - model - WARNING - tbl file not found (shihmen//intbl/CapScale.tbl) returning default value: 100.0
+2016-08-09 10:34:42,895 - model - INFO - Creating map from table: shihmen//intbl/InfiltCapPath.tbl
+2016-08-09 10:34:42,897 - model - WARNING - tbl file not found (shihmen//intbl/MaxLeakage.tbl) returning default value: 0.0
+2016-08-09 10:34:42,907 - model - INFO - Creating map from table: shihmen//intbl/PathFrac.tbl
+2016-08-09 10:34:42,915 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneCapacity.tbl
+2016-08-09 10:34:42,926 - model - INFO - Creating map from table: shihmen//intbl/thetaR.tbl
+2016-08-09 10:34:42,934 - model - INFO - Creating map from table: shihmen//intbl/thetaS.tbl
+2016-08-09 10:34:42,944 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneMinCapacity.tbl
+2016-08-09 10:34:42,954 - model - INFO - Creating map from table: shihmen//intbl/FirstZoneKsatVer.tbl
+2016-08-09 10:34:42,964 - model - INFO - Creating map from table: shihmen//intbl/M.tbl
+2016-08-09 10:34:42,971 - model - INFO - Creating map from table: shihmen//intbl/N.tbl
+2016-08-09 10:34:42,980 - model - INFO - Creating map from table: shihmen//intbl/N_River.tbl
+2016-08-09 10:34:42,980 - model - WARNING - tbl file not found (shihmen//intbl/WaterFrac.tbl) returning default value: 0.0
+2016-08-09 10:34:43,207 - model - INFO - Initializing of model variables..
+2016-08-09 10:34:43,296 - model - INFO - Create timeseries outputs...
+2016-08-09 10:34:43,298 - model - INFO - Creating tss output: self.FirstZoneDepth(fir)
+2016-08-09 10:34:43,299 - model - INFO - Creating tss output: self.ActEvap(aet)
+2016-08-09 10:34:43,301 - model - INFO - Creating tss output: self.UStoreDepth(ust)
+2016-08-09 10:34:43,302 - model - INFO - Creating tss output: self.zi(zi_)
+2016-08-09 10:34:43,362 - model - INFO - Saving summary maps...
+2016-08-09 10:34:43,427 - model - INFO - Starting Dynamic run...
+2016-08-09 10:34:43,427 - model - INFO - Setting initial conditions from state files
+2016-08-09 10:34:43,522 - model - DEBUG - Step: 1/96
+2016-08-09 10:34:43,766 - model - DEBUG - Step: 2/96
+2016-08-09 10:34:44,006 - model - DEBUG - Step: 3/96
+2016-08-09 10:34:44,242 - model - DEBUG - Step: 4/96
+2016-08-09 10:34:44,479 - model - DEBUG - Step: 5/96
+2016-08-09 10:34:44,743 - model - DEBUG - Step: 6/96
+2016-08-09 10:34:44,980 - model - DEBUG - Step: 7/96
+2016-08-09 10:34:45,217 - model - DEBUG - Step: 8/96
+2016-08-09 10:34:45,453 - model - DEBUG - Step: 9/96
+2016-08-09 10:34:45,717 - model - DEBUG - Step: 10/96
+2016-08-09 10:34:45,954 - model - DEBUG - Step: 11/96
+2016-08-09 10:34:46,190 - model - DEBUG - Step: 12/96
+2016-08-09 10:34:46,453 - model - DEBUG - Step: 13/96
+2016-08-09 10:34:46,721 - model - DEBUG - Step: 14/96
+2016-08-09 10:34:46,954 - model - DEBUG - Step: 15/96
+2016-08-09 10:34:47,190 - model - DEBUG - Step: 16/96
+2016-08-09 10:34:47,457 - model - DEBUG - Step: 17/96
+2016-08-09 10:34:47,691 - model - DEBUG - Step: 18/96
+2016-08-09 10:34:47,930 - model - DEBUG - Step: 19/96
+2016-08-09 10:34:48,163 - model - DEBUG - Step: 20/96
+2016-08-09 10:34:48,430 - model - DEBUG - Step: 21/96
+2016-08-09 10:34:48,721 - model - DEBUG - Step: 22/96
+2016-08-09 10:34:49,016 - model - DEBUG - Step: 23/96
+2016-08-09 10:34:49,322 - model - DEBUG - Step: 24/96
+2016-08-09 10:34:49,602 - model - DEBUG - Step: 25/96
+2016-08-09 10:34:49,875 - model - DEBUG - Step: 26/96
+2016-08-09 10:34:50,145 - model - DEBUG - Step: 27/96
+2016-08-09 10:34:50,447 - model - DEBUG - Step: 28/96
+2016-08-09 10:34:50,743 - model - DEBUG - Step: 29/96
+2016-08-09 10:34:51,043 - model - DEBUG - Step: 30/96
+2016-08-09 10:34:51,311 - model - DEBUG - Step: 31/96
+2016-08-09 10:34:51,578 - model - DEBUG - Step: 32/96
+2016-08-09 10:34:51,877 - model - DEBUG - Step: 33/96
+2016-08-09 10:34:52,181 - model - DEBUG - Step: 34/96
+2016-08-09 10:34:52,447 - model - DEBUG - Step: 35/96
+2016-08-09 10:34:52,710 - model - DEBUG - Step: 36/96
+2016-08-09 10:34:53,000 - model - DEBUG - Step: 37/96
+2016-08-09 10:34:53,311 - model - DEBUG - Step: 38/96
+2016-08-09 10:34:53,572 - model - DEBUG - Step: 39/96
+2016-08-09 10:34:53,835 - model - DEBUG - Step: 40/96
+2016-08-09 10:34:54,128 - model - DEBUG - Step: 41/96
+2016-08-09 10:34:54,394 - model - DEBUG - Step: 42/96
+2016-08-09 10:34:54,658 - model - DEBUG - Step: 43/96
+2016-08-09 10:34:54,920 - model - DEBUG - Step: 44/96
+2016-08-09 10:34:55,220 - model - DEBUG - Step: 45/96
+2016-08-09 10:34:55,510 - model - DEBUG - Step: 46/96
+2016-08-09 10:34:55,769 - model - DEBUG - Step: 47/96
+2016-08-09 10:34:56,035 - model - DEBUG - Step: 48/96
+2016-08-09 10:34:56,309 - model - DEBUG - Step: 49/96
+2016-08-09 10:34:56,572 - model - DEBUG - Step: 50/96
+2016-08-09 10:34:56,842 - model - DEBUG - Step: 51/96
+2016-08-09 10:34:57,111 - model - DEBUG - Step: 52/96
+2016-08-09 10:34:57,417 - model - DEBUG - Step: 53/96
+2016-08-09 10:34:57,721 - model - DEBUG - Step: 54/96
+2016-08-09 10:34:57,986 - model - DEBUG - Step: 55/96
+2016-08-09 10:34:58,279 - model - DEBUG - Step: 56/96
+2016-08-09 10:34:58,536 - model - DEBUG - Step: 57/96
+2016-08-09 10:34:58,792 - model - DEBUG - Step: 58/96
+2016-08-09 10:34:59,092 - model - DEBUG - Step: 59/96
+2016-08-09 10:34:59,345 - model - DEBUG - Step: 60/96
+2016-08-09 10:34:59,605 - model - DEBUG - Step: 61/96
+2016-08-09 10:34:59,933 - model - DEBUG - Step: 62/96
+2016-08-09 10:35:00,190 - model - DEBUG - Step: 63/96
+2016-08-09 10:35:00,526 - model - DEBUG - Step: 64/96
+2016-08-09 10:35:00,786 - model - DEBUG - Step: 65/96
+2016-08-09 10:35:01,111 - model - DEBUG - Step: 66/96
+2016-08-09 10:35:01,411 - model - DEBUG - Step: 67/96
+2016-08-09 10:35:01,727 - model - DEBUG - Step: 68/96
+2016-08-09 10:35:01,996 - model - DEBUG - Step: 69/96
+2016-08-09 10:35:02,296 - model - DEBUG - Step: 70/96
+2016-08-09 10:35:02,555 - model - DEBUG - Step: 71/96
+2016-08-09 10:35:02,855 - model - DEBUG - Step: 72/96
+2016-08-09 10:35:03,115 - model - DEBUG - Step: 73/96
+2016-08-09 10:35:03,421 - model - DEBUG - Step: 74/96
+2016-08-09 10:35:03,684 - model - DEBUG - Step: 75/96
+2016-08-09 10:35:04,003 - model - DEBUG - Step: 76/96
+2016-08-09 10:35:04,266 - model - DEBUG - Step: 77/96
+2016-08-09 10:35:04,568 - model - DEBUG - Step: 78/96
+2016-08-09 10:35:04,831 - model - DEBUG - Step: 79/96
+2016-08-09 10:35:05,094 - model - DEBUG - Step: 80/96
+2016-08-09 10:35:05,385 - model - DEBUG - Step: 81/96
+2016-08-09 10:35:05,700 - model - DEBUG - Step: 82/96
+2016-08-09 10:35:05,970 - model - DEBUG - Step: 83/96
+2016-08-09 10:35:06,230 - model - DEBUG - Step: 84/96
+2016-08-09 10:35:06,490 - model - DEBUG - Step: 85/96
+2016-08-09 10:35:06,776 - model - DEBUG - Step: 86/96
+2016-08-09 10:35:07,062 - model - DEBUG - Step: 87/96
+2016-08-09 10:35:07,323 - model - DEBUG - Step: 88/96
+2016-08-09 10:35:07,584 - model - DEBUG - Step: 89/96
+2016-08-09 10:35:07,878 - model - DEBUG - Step: 90/96
+2016-08-09 10:35:08,144 - model - DEBUG - Step: 91/96
+2016-08-09 10:35:08,407 - model - DEBUG - Step: 92/96
+2016-08-09 10:35:08,727 - model - DEBUG - Step: 93/96
+2016-08-09 10:35:09,071 - model - DEBUG - Step: 94/96
+2016-08-09 10:35:09,361 - model - DEBUG - Step: 95/96
+2016-08-09 10:35:09,634 - model - DEBUG - Step: 96/96
+2016-08-09 10:35:09,915 - model - INFO - Saving initial conditions...
+2016-08-09 10:35:09,921 - model - INFO - Saving initial conditions for FEWS...
